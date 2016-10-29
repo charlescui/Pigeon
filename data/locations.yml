@@ -1,0 +1,6775 @@
+---
+上海:
+  上海:
+    :latitude: '31.22'
+    :longitude: '121.48'
+  嘉定:
+    :latitude: '31.4'
+    :longitude: '121.24'
+  宝山:
+    :latitude: '31.41'
+    :longitude: '121.48'
+  川沙:
+    :latitude: '31.19'
+    :longitude: '121.7'
+  南汇:
+    :latitude: '31.05'
+    :longitude: '121.76'
+  奉贤:
+    :latitude: '30.92'
+    :longitude: '121.46'
+  松江:
+    :latitude: '31'
+    :longitude: '121.24'
+  金山:
+    :latitude: '30.89'
+    :longitude: '121.16'
+  青浦:
+    :latitude: '31.15'
+    :longitude: '121.1'
+  崇明:
+    :latitude: '31.73'
+    :longitude: '121.4'
+云南:
+  昆明:
+    :latitude: '25.04'
+    :longitude: '102.73'
+  富民:
+    :latitude: '25.21'
+    :longitude: '102.48'
+  晋宁:
+    :latitude: '24.68'
+    :longitude: '102.58'
+  呈贡:
+    :latitude: '24.9'
+    :longitude: '102.79'
+  安宁:
+    :latitude: '24.95'
+    :longitude: '102.44'
+  昭通:
+    :latitude: '29.32'
+    :longitude: '103.7'
+  永善:
+    :latitude: '28.22'
+    :longitude: '103.63'
+  大关:
+    :latitude: '27.74'
+    :longitude: '103.91'
+  彝良:
+    :latitude: '27.61'
+    :longitude: '104.06'
+  鲁甸:
+    :latitude: '27.21'
+    :longitude: '103.54'
+  绥江:
+    :latitude: '28.58'
+    :longitude: '103.97'
+  盐津:
+    :latitude: '28.08'
+    :longitude: '104.28'
+  威信:
+    :latitude: '27.85'
+    :longitude: '105.05'
+  镇雄:
+    :latitude: '27.42'
+    :longitude: '104.86'
+  巧家:
+    :latitude: '26.9'
+    :longitude: '102.92'
+  永富:
+    :latitude: '28.62'
+    :longitude: '104.38'
+  曲靖:
+    :latitude: '25.51'
+    :longitude: '103.79'
+  宣威:
+    :latitude: '26.24'
+    :longitude: '104.09'
+  富源:
+    :latitude: '25.67'
+    :longitude: '104.24'
+  师宗:
+    :latitude: '24.85'
+    :longitude: '103.97'
+  嵩明:
+    :latitude: '25.35'
+    :longitude: '103.03'
+  会泽:
+    :latitude: '26.41'
+    :longitude: '103.27'
+  沽益:
+    :latitude: '25.62'
+    :longitude: '103.82'
+  罗平:
+    :latitude: '24.88'
+    :longitude: '104.3'
+  陆良:
+    :latitude: '25.04'
+    :longitude: '104.64'
+  宜良:
+    :latitude: '24.9'
+    :longitude: '103.12'
+  马龙:
+    :latitude: '25.41'
+    :longitude: '103.61'
+  路南:
+    :latitude: '24.77'
+    :longitude: '103.24'
+  寻甸:
+    :latitude: '25.56'
+    :longitude: '103.25'
+  玉溪:
+    :latitude: '24.35'
+    :longitude: '102.52'
+  华宁:
+    :latitude: '24.26'
+    :longitude: '102.93'
+  通海:
+    :latitude: '24.09'
+    :longitude: '102.75'
+  澄江:
+    :latitude: '24.68'
+    :longitude: '102.91'
+  江川:
+    :latitude: '24.27'
+    :longitude: '102.73'
+  易门:
+    :latitude: '24.67'
+    :longitude: '102.15'
+  元江:
+    :latitude: '23.59'
+    :longitude: '102'
+  新平:
+    :latitude: '24.06'
+    :longitude: '101.98'
+  峨山:
+    :latitude: '24.16'
+    :longitude: '102.38'
+  思茅:
+    :latitude: '22.79'
+    :longitude: '101'
+  普洱:
+    :latitude: '23.07'
+    :longitude: '101.03'
+  镇沅:
+    :latitude: '23.9'
+    :longitude: '100.88'
+  景东:
+    :latitude: '24.42'
+    :longitude: '100.82'
+  景谷:
+    :latitude: '23.5'
+    :longitude: '100.71'
+  黑江:
+    :latitude: '23.4'
+    :longitude: '101.71'
+  澜沦:
+    :latitude: '22.55'
+    :longitude: '99.97'
+  西盟:
+    :latitude: '22.73'
+    :longitude: '99.47'
+  江城:
+    :latitude: '22.58'
+    :longitude: '101.88'
+  孟连:
+    :latitude: '22.32'
+    :longitude: '99.55'
+  临沦:
+    :latitude: '23.88'
+    :longitude: '100.09'
+  云县:
+    :latitude: '24.44'
+    :longitude: '100.12'
+  镇康:
+    :latitude: '23.92'
+    :longitude: '99.02'
+  永德:
+    :latitude: '24.03'
+    :longitude: '99.25'
+  凤庆:
+    :latitude: '24.58'
+    :longitude: '99.92'
+  双江:
+    :latitude: '23.45'
+    :longitude: '99.85'
+  沧源:
+    :latitude: '23.15'
+    :longitude: '99.24'
+  耿马:
+    :latitude: '23.56'
+    :longitude: '99.41'
+  保由:
+    :latitude: '25.12'
+    :longitude: '99.18'
+  施甸:
+    :latitude: '24.69'
+    :longitude: '99.15'
+  腾冲:
+    :latitude: '25.01'
+    :longitude: '98.51'
+  昌宁:
+    :latitude: '24.82'
+    :longitude: '99.61'
+  龙陵:
+    :latitude: '24.58'
+    :longitude: '98.7'
+  丽江:
+    :latitude: '26.86'
+    :longitude: '100.25'
+  华坪:
+    :latitude: '26.63'
+    :longitude: '101.24'
+  永胜:
+    :latitude: '26.71'
+    :longitude: '100.76'
+  宁蒗:
+    :latitude: '27.29'
+    :longitude: '100.82'
+  文山:
+    :latitude: '23.37'
+    :longitude: '104.24'
+  广南:
+    :latitude: '24.05'
+    :longitude: '105.09'
+  西畴:
+    :latitude: '23.42'
+    :longitude: '104.68'
+  麻栗坡:
+    :latitude: '23.12'
+    :longitude: '104.71'
+  马关:
+    :latitude: '23.01'
+    :longitude: '104.4'
+  丘北:
+    :latitude: '24.03'
+    :longitude: '104.19'
+  砚山:
+    :latitude: '23.62'
+    :longitude: '104.35'
+  富宁:
+    :latitude: '23.62'
+    :longitude: '105.6'
+  个旧:
+    :latitude: '23.35'
+    :longitude: '102.43'
+  弥勒:
+    :latitude: '24.41'
+    :longitude: '103.43'
+  蒙自:
+    :latitude: '23.36'
+    :longitude: '103.41'
+  元阳:
+    :latitude: '23.17'
+    :longitude: '102.81'
+  红河:
+    :latitude: '23.35'
+    :longitude: '102.42'
+  石屏:
+    :latitude: '23.73'
+    :longitude: '102.48'
+  泸西:
+    :latitude: '24.52'
+    :longitude: '103.76'
+  金平:
+    :latitude: '22.77'
+    :longitude: '103.24'
+  开远:
+    :latitude: '23.7'
+    :longitude: '103.23'
+  绿春:
+    :latitude: '23.01'
+    :longitude: '102.42'
+  建水:
+    :latitude: '23.64'
+    :longitude: '102.79'
+  河口:
+    :latitude: '22.52'
+    :longitude: '103.98'
+  屏边:
+    :latitude: '22.68'
+    :longitude: '103.67'
+  景淇:
+    :latitude: '22'
+    :longitude: '100.79'
+  勐海:
+    :latitude: '21.95'
+    :longitude: '100.5'
+  勐腊:
+    :latitude: '21.48'
+    :longitude: '101.56'
+  楚雄:
+    :latitude: '25.01'
+    :longitude: '101.54'
+  元谋:
+    :latitude: '25.7'
+    :longitude: '101.85'
+  武定:
+    :latitude: '25.55'
+    :longitude: '102.36'
+  禄丰:
+    :latitude: '25.15'
+    :longitude: '102.08'
+  南华:
+    :latitude: '25.21'
+    :longitude: '101.26'
+  大姚:
+    :latitude: '25.73'
+    :longitude: '101.34'
+  永仁:
+    :latitude: '26.07'
+    :longitude: '101.7'
+  禄劝:
+    :latitude: '25.58'
+    :longitude: '102.45'
+  牟定:
+    :latitude: '25.32'
+    :longitude: '101.58'
+  双柏:
+    :latitude: '24.68'
+    :longitude: '101.67'
+  姚安:
+    :latitude: '25.4'
+    :longitude: '101.24'
+  下关:
+    :latitude: '25.45'
+    :longitude: '100.24'
+  剑川:
+    :latitude: '26.53'
+    :longitude: '99.88'
+  洱源:
+    :latitude: '26.1'
+    :longitude: '99.94'
+  宾川:
+    :latitude: '25.82'
+    :longitude: '100.55'
+  弥渡:
+    :latitude: '25.34'
+    :longitude: '100.52'
+  永平:
+    :latitude: '25.45'
+    :longitude: '99.52'
+  鹤庆:
+    :latitude: '26.55'
+    :longitude: '100.18'
+  大理:
+    :latitude: '25.69'
+    :longitude: '100.19'
+  漾濞:
+    :latitude: '25.68'
+    :longitude: '99.98'
+  云龙:
+    :latitude: '25.9'
+    :longitude: '99.39'
+  祥云:
+    :latitude: '25.48'
+    :longitude: '100.56'
+  巍山:
+    :latitude: '25.23'
+    :longitude: '100.33'
+  南涧:
+    :latitude: '25.04'
+    :longitude: '100.51'
+  潞西:
+    :latitude: '24.41'
+    :longitude: '98.6'
+  陇川:
+    :latitude: '24.33'
+    :longitude: '97.96'
+  盈江:
+    :latitude: '24.69'
+    :longitude: '97.93'
+  畹町:
+    :latitude: '24.08'
+    :longitude: '98.08'
+  瑞丽:
+    :latitude: '24'
+    :longitude: '97.83'
+  梁河:
+    :latitude: '24.78'
+    :longitude: '98.3'
+  泸水:
+    :latitude: '25.97'
+    :longitude: '98.82'
+  碧江:
+    :latitude: '26.55'
+    :longitude: '98.95'
+  福贡:
+    :latitude: '26.89'
+    :longitude: '98.92'
+  兰坪:
+    :latitude: '26.49'
+    :longitude: '99.29'
+  贡山:
+    :latitude: '27.73'
+    :longitude: '98.65'
+  中甸:
+    :latitude: '27.78'
+    :longitude: '99.72'
+  德钦:
+    :latitude: '28.49'
+    :longitude: '98.93'
+  维西:
+    :latitude: '27.15'
+    :longitude: '99.27'
+内蒙古:
+  呼和浩特:
+    :latitude: '40.82'
+    :longitude: '111.65'
+  上默特左旗:
+    :latitude: '40.72'
+    :longitude: '111.13'
+  托克托:
+    :latitude: '40.28'
+    :longitude: '111.15'
+  包头:
+    :latitude: '40.58'
+    :longitude: '110'
+  上默特右旗:
+    :latitude: '40.55'
+    :longitude: '110.52'
+  固阳:
+    :latitude: '41.03'
+    :longitude: '110.03'
+  乌海:
+    :latitude: '39.67'
+    :longitude: '106.82'
+  集宁:
+    :latitude: '41.03'
+    :longitude: '113.08'
+  兴和:
+    :latitude: '40.88'
+    :longitude: '113.97'
+  清水河:
+    :latitude: '39.92'
+    :longitude: '111.65'
+  武川:
+    :latitude: '41.12'
+    :longitude: '111.42'
+  卓资:
+    :latitude: '40.93'
+    :longitude: '112.52'
+  商都:
+    :latitude: '41.58'
+    :longitude: '113.53'
+  丰镇:
+    :latitude: '40.45'
+    :longitude: '113.15'
+  凉城:
+    :latitude: '40.52'
+    :longitude: '112.48'
+  和林格尔:
+    :latitude: '40.4'
+    :longitude: '111.8'
+  化德:
+    :latitude: '41.9'
+    :longitude: '114'
+  四子王旗:
+    :latitude: '41.37'
+    :longitude: '111.68'
+  二连浩特:
+    :latitude: '43.65'
+    :longitude: '111.96'
+  阿巴哈纳尔旗:
+    :latitude: '43.95'
+    :longitude: '116.08'
+  多伦:
+    :latitude: '42.18'
+    :longitude: '116.48'
+  阿巴嘎旗:
+    :latitude: '44.03'
+    :longitude: '114.97'
+  西乌珠穆沁旗:
+    :latitude: '44.6'
+    :longitude: '117.58'
+  东乌珠穆沁旗:
+    :latitude: '45.53'
+    :longitude: '116.97'
+  苏尼特左旗:
+    :latitude: '43.85'
+    :longitude: '113.7'
+  苏尼特右旗:
+    :latitude: '42.47'
+    :longitude: '112.95'
+  太仆寺旗:
+    :latitude: '41.9'
+    :longitude: '115.3'
+  正镶白旗:
+    :latitude: '42.32'
+    :longitude: '115'
+  正蓝旗:
+    :latitude: '42.25'
+    :longitude: '116.02'
+  镶黄旗:
+    :latitude: '42.25'
+    :longitude: '113.83'
+  海拉尔:
+    :latitude: '29.22'
+    :longitude: '119.73'
+  满洲里:
+    :latitude: '49.58'
+    :longitude: '117.47'
+  陈巴尔虎旗:
+    :latitude: '49.33'
+    :longitude: '119.45'
+  额尔古纳右旗:
+    :latitude: '50.45'
+    :longitude: '120.08'
+  额尔古纳左旗:
+    :latitude: '50.8'
+    :longitude: '121.52'
+  喜桂图旗:
+    :latitude: '49.3'
+    :longitude: '120.73'
+  阿荣旗:
+    :latitude: '48.13'
+    :longitude: '123.5'
+  布特哈旗:
+    :latitude: '47.98'
+    :longitude: '122.78'
+  新巴尔虎左旗:
+    :latitude: '48.67'
+    :longitude: '116.82'
+  新巴尔虎右旗:
+    :latitude: '48.22'
+    :longitude: '118.23'
+  鄂伦春自治旗:
+    :latitude: '50.58'
+    :longitude: '123.7'
+  通辽:
+    :latitude: '43.63'
+    :longitude: '122.28'
+  开鲁:
+    :latitude: '43.62'
+    :longitude: '121.32'
+  库伦旗:
+    :latitude: '42.72'
+    :longitude: '121.75'
+  奈曼旗:
+    :latitude: '42.85'
+    :longitude: '120.65'
+  扎鲁特旗:
+    :latitude: '44.55'
+    :longitude: '120.87'
+  赤峰:
+    :latitude: '42.28'
+    :longitude: '118.87'
+  宁城:
+    :latitude: '41.62'
+    :longitude: '119.32'
+  林西:
+    :latitude: '43.62'
+    :longitude: '118.02'
+  喀喇沁旗:
+    :latitude: '41.95'
+    :longitude: '118.67'
+  敖汉旗:
+    :latitude: '42.3'
+    :longitude: '119.87'
+  翁牛特旗:
+    :latitude: '42.97'
+    :longitude: '119'
+  巴林右旗:
+    :latitude: '43.52'
+    :longitude: '118.65'
+  巴林左旗:
+    :latitude: '43.98'
+    :longitude: '119.35'
+  阿鲁科尔沁旗:
+    :latitude: '43.97'
+    :longitude: '120.05'
+  克什克腾旗:
+    :latitude: '43.28'
+    :longitude: '117.48'
+  伊克昭盟:
+    :latitude: '39.83'
+    :longitude: '110'
+  东胜县:
+    :latitude: '39.83'
+    :longitude: '110'
+  准格尔旗:
+    :latitude: '39.68'
+    :longitude: '111.13'
+  乌审旗:
+    :latitude: '38.38'
+    :longitude: '109.03'
+  伊金霍洛旗:
+    :latitude: '39.25'
+    :longitude: '109.77'
+  鄂托克旗:
+    :latitude: '39.12'
+    :longitude: '107.97'
+  鄂托克前旗:
+    :latitude: '38.18'
+    :longitude: '107.43'
+  杭锦旗:
+    :latitude: '39.83'
+    :longitude: '108.7'
+  达拉特旗:
+    :latitude: '40.42'
+    :longitude: '110.02'
+  临河:
+    :latitude: '40.78'
+    :longitude: '107.37'
+  五原:
+    :latitude: '41.12'
+    :longitude: '108.28'
+  磴口:
+    :latitude: '40.33'
+    :longitude: '106.98'
+  杭锦后旗:
+    :latitude: '40.88'
+    :longitude: '107.12'
+  乌拉特中旗:
+    :latitude: '41.55'
+    :longitude: '108.52'
+  乌拉特前旗:
+    :latitude: '40.75'
+    :longitude: '108.65'
+  乌拉特后旗:
+    :latitude: '40.88'
+    :longitude: '108.52'
+  阿拉善左旗:
+    :latitude: '38.85'
+    :longitude: '105.68'
+  阿拉善右旗:
+    :latitude: '39.2'
+    :longitude: '101.68'
+  额济纳旗:
+    :latitude: '41.9'
+    :longitude: '100.88'
+  乌兰浩特:
+    :latitude: '46.07'
+    :longitude: '122.08'
+  突泉:
+    :latitude: '45.4'
+    :longitude: '121.5'
+北京:
+  北京:
+    :latitude: '39.92'
+    :longitude: '116.46'
+  平谷:
+    :latitude: '40.13'
+    :longitude: '117.1'
+  密云:
+    :latitude: '40.37'
+    :longitude: '116.85'
+  顺义:
+    :latitude: '40.13'
+    :longitude: '116.65'
+  通县:
+    :latitude: '39.92'
+    :longitude: '116.67'
+  怀柔:
+    :latitude: '40.32'
+    :longitude: '116.62'
+  大兴:
+    :latitude: '39.73'
+    :longitude: '116.33'
+  房山:
+    :latitude: '39.72'
+    :longitude: '115.98'
+吉林:
+  长春:
+    :latitude: '43.88'
+    :longitude: '125.35'
+  吉林:
+    :latitude: '43.87'
+    :longitude: '126.57'
+  农安:
+    :latitude: '44.45'
+    :longitude: '125.15'
+  德惠:
+    :latitude: '44.52'
+    :longitude: '125.68'
+  榆树:
+    :latitude: '44.83'
+    :longitude: '126.55'
+  九台:
+    :latitude: '44.15'
+    :longitude: '126.83'
+  双阳:
+    :latitude: '43.53'
+    :longitude: '125.68'
+  永吉:
+    :latitude: '43.87'
+    :longitude: '126.57'
+  舒兰:
+    :latitude: '44.4'
+    :longitude: '126.97'
+  蛟河:
+    :latitude: '43.75'
+    :longitude: '127.33'
+  桦甸:
+    :latitude: '42.97'
+    :longitude: '126.72'
+  磐石:
+    :latitude: '42.93'
+    :longitude: '126.03'
+  延吉:
+    :latitude: '42.93'
+    :longitude: '129.52'
+  汪清:
+    :latitude: '43.32'
+    :longitude: '129.75'
+  珲春:
+    :latitude: '42.85'
+    :longitude: '130.35'
+  图们:
+    :latitude: '42.98'
+    :longitude: '129.83'
+  和龙:
+    :latitude: '42.52'
+    :longitude: '129'
+  安图:
+    :latitude: '42.58'
+    :longitude: '128.3'
+  敦化:
+    :latitude: '43.35'
+    :longitude: '128.18'
+  通化:
+    :latitude: '41.49'
+    :longitude: '125.92'
+  柳河:
+    :latitude: '40.88'
+    :longitude: '125.7'
+  海龙:
+    :latitude: '42.53'
+    :longitude: '125.65'
+  辉南:
+    :latitude: '42.68'
+    :longitude: '126.03'
+  靖宇:
+    :latitude: '42.38'
+    :longitude: '126.8'
+  浑江:
+    :latitude: '41.97'
+    :longitude: '126.4'
+  抚松:
+    :latitude: '42.33'
+    :longitude: '127.27'
+  集安:
+    :latitude: '41.15'
+    :longitude: '126.17'
+  长白:
+    :latitude: '41.43'
+    :longitude: '128.17'
+  四平:
+    :latitude: '43.17'
+    :longitude: '124.37'
+  梨树:
+    :latitude: '43.32'
+    :longitude: '124.33'
+  怀德:
+    :latitude: '43.5'
+    :longitude: '124.82'
+  伊通:
+    :latitude: '43.33'
+    :longitude: '125.32'
+  辽源:
+    :latitude: '42.97'
+    :longitude: '125.15'
+  东丰:
+    :latitude: '42.68'
+    :longitude: '125.5'
+  双辽:
+    :latitude: '43.52'
+    :longitude: '123.5'
+  白城:
+    :latitude: '45.63'
+    :longitude: '122.82'
+  大安:
+    :latitude: '45.5'
+    :longitude: '124.18'
+  扶余:
+    :latitude: '45.2'
+    :longitude: '124.82'
+  乾安:
+    :latitude: '45'
+    :longitude: '124.02'
+  长岭:
+    :latitude: '44.3'
+    :longitude: '123.97'
+  通榆:
+    :latitude: '44.82'
+    :longitude: '123.13'
+  洮安:
+    :latitude: '45.35'
+    :longitude: '122.75'
+四川:
+  成都:
+    :latitude: '30.67'
+    :longitude: '104.06'
+  金堂:
+    :latitude: '30.88'
+    :longitude: '104.32'
+  双流:
+    :latitude: '30.57'
+    :longitude: '104.94'
+  蒲江:
+    :latitude: '30.2'
+    :longitude: '103.29'
+  郫县:
+    :latitude: '30.8'
+    :longitude: '103.86'
+  新都:
+    :latitude: '30.82'
+    :longitude: '104.13'
+  来易:
+    :latitude: '26.9'
+    :longitude: '102.15'
+  盐边:
+    :latitude: '26.9'
+    :longitude: '101.56'
+  温江:
+    :latitude: '30.97'
+    :longitude: '103.81'
+  灌县:
+    :latitude: '31.04'
+    :longitude: '103.61'
+  彭县:
+    :latitude: '30.99'
+    :longitude: '103.94'
+  什邡:
+    :latitude: '31.13'
+    :longitude: '104.16'
+  广汉:
+    :latitude: '30.99'
+    :longitude: '104.25'
+  新津:
+    :latitude: '30.42'
+    :longitude: '103.78'
+  邛崃:
+    :latitude: '30.42'
+    :longitude: '103.47'
+  大邑:
+    :latitude: '30.58'
+    :longitude: '103.53'
+  崇庆:
+    :latitude: '30.63'
+    :longitude: '103.69'
+  绵阳:
+    :latitude: '31.48'
+    :longitude: '104.73'
+  江油:
+    :latitude: '31.8'
+    :longitude: '104.7'
+  青川:
+    :latitude: '32.59'
+    :longitude: '105.21'
+  平武:
+    :latitude: '32.42'
+    :longitude: '104.52'
+  光元:
+    :latitude: '32.44'
+    :longitude: '105.86'
+  旺苍:
+    :latitude: '32.25'
+    :longitude: '106.33'
+  剑阁:
+    :latitude: '32.03'
+    :longitude: '105.45'
+  梓潼:
+    :latitude: '31.64'
+    :longitude: '105.16'
+  三台:
+    :latitude: '31.1'
+    :longitude: '105.06'
+  盐亭:
+    :latitude: '31.23'
+    :longitude: '105.35'
+  射洪:
+    :latitude: '30.9'
+    :longitude: '105.31'
+  遂宁:
+    :latitude: '30.52'
+    :longitude: '105.58'
+  蓬溪:
+    :latitude: '30.78'
+    :longitude: '105.74'
+  中江:
+    :latitude: '31.06'
+    :longitude: '104.68'
+  德阳:
+    :latitude: '31.13'
+    :longitude: '104.37'
+  绵竹:
+    :latitude: '31.32'
+    :longitude: '104.19'
+  安县:
+    :latitude: '31.64'
+    :longitude: '104.41'
+  北川:
+    :latitude: '31.89'
+    :longitude: '104.44'
+  内江:
+    :latitude: '29.59'
+    :longitude: '105.04'
+  乐至:
+    :latitude: '30.3'
+    :longitude: '105.02'
+  安岳:
+    :latitude: '30.12'
+    :longitude: '105.3'
+  威远:
+    :latitude: '29.57'
+    :longitude: '104.7'
+  资中:
+    :latitude: '29.81'
+    :longitude: '104.85'
+  资阳:
+    :latitude: '30.19'
+    :longitude: '104.6'
+  简阳:
+    :latitude: '30.38'
+    :longitude: '104.53'
+  隆昌:
+    :latitude: '29.64'
+    :longitude: '105.25'
+  宜宾:
+    :latitude: '29.77'
+    :longitude: '104.56'
+  富顺:
+    :latitude: '29.24'
+    :longitude: '104.97'
+  南溪:
+    :latitude: '28.87'
+    :longitude: '104.96'
+  江安:
+    :latitude: '28.71'
+    :longitude: '105.06'
+  纳溪:
+    :latitude: '28.77'
+    :longitude: '105.38'
+  泸县:
+    :latitude: '28.96'
+    :longitude: '105.46'
+  合江:
+    :latitude: '28.79'
+    :longitude: '105.78'
+  泸州:
+    :latitude: '28.91'
+    :longitude: '105.39'
+  古蔺:
+    :latitude: '28.03'
+    :longitude: '105.79'
+  叙水:
+    :latitude: '28.19'
+    :longitude: '105.44'
+  长宁:
+    :latitude: '28.6'
+    :longitude: '104.91'
+  兴文:
+    :latitude: '28.36'
+    :longitude: '105.06'
+  琪县:
+    :latitude: '28.38'
+    :longitude: '104.81'
+  高县:
+    :latitude: '28.4'
+    :longitude: '104.52'
+  筠连:
+    :latitude: '28.16'
+    :longitude: '104.53'
+  屏由:
+    :latitude: '28.68'
+    :longitude: '104.15'
+  乐由:
+    :latitude: '29.59'
+    :longitude: '103.73'
+  夹江:
+    :latitude: '29.75'
+    :longitude: '103.59'
+  洪雅:
+    :latitude: '29.95'
+    :longitude: '103.38'
+  丹棱:
+    :latitude: '30.04'
+    :longitude: '103.53'
+  青神:
+    :latitude: '29.86'
+    :longitude: '103.81'
+  眉由:
+    :latitude: '30.05'
+    :longitude: '103.81'
+  彭由:
+    :latitude: '30.22'
+    :longitude: '103.83'
+  井研:
+    :latitude: '29.67'
+    :longitude: '104.06'
+  仁寿:
+    :latitude: '30'
+    :longitude: '104.09'
+  犍为:
+    :latitude: '29.21'
+    :longitude: '103.93'
+  沐川:
+    :latitude: '28.96'
+    :longitude: '103.98'
+  娥眉:
+    :latitude: '29.62'
+    :longitude: '103.5'
+  马边:
+    :latitude: '28.87'
+    :longitude: '103.53'
+  峨边:
+    :latitude: '29.23'
+    :longitude: '103.25'
+  金口:
+    :latitude: '29.24'
+    :longitude: '103.13'
+  涪陵:
+    :latitude: '29.7'
+    :longitude: '107.36'
+  垫江:
+    :latitude: '30.36'
+    :longitude: '107.34'
+  丰都:
+    :latitude: '29.89'
+    :longitude: '107.7'
+  石柱:
+    :latitude: '29.98'
+    :longitude: '108.13'
+  秀山:
+    :latitude: '28.47'
+    :longitude: '108.97'
+  西阳:
+    :latitude: '28.85'
+    :longitude: '108.75'
+  黔江:
+    :latitude: '29.53'
+    :longitude: '108.81'
+  彭水:
+    :latitude: '29.29'
+    :longitude: '108.19'
+  武隆:
+    :latitude: '29.29'
+    :longitude: '108.72'
+  南川:
+    :latitude: '29.15'
+    :longitude: '107.13'
+  万县:
+    :latitude: '30.83'
+    :longitude: '108.35'
+  开县:
+    :latitude: '31.23'
+    :longitude: '108.39'
+  城口:
+    :latitude: '31.98'
+    :longitude: '108.67'
+  巫溪:
+    :latitude: '31.42'
+    :longitude: '109.6'
+  巫山:
+    :latitude: '31.1'
+    :longitude: '109.86'
+  奉节:
+    :latitude: '31.06'
+    :longitude: '109.52'
+  云阳:
+    :latitude: '30.99'
+    :longitude: '108.89'
+  忠县:
+    :latitude: '30.33'
+    :longitude: '108.03'
+  梁平:
+    :latitude: '30.66'
+    :longitude: '107.78'
+  南允:
+    :latitude: '30.8'
+    :longitude: '106.06'
+  苍溪:
+    :latitude: '31.75'
+    :longitude: '105.96'
+  阆中:
+    :latitude: '31.75'
+    :longitude: '105.97'
+  仪陇:
+    :latitude: '31.52'
+    :longitude: '106.38'
+  南部:
+    :latitude: '31.34'
+    :longitude: '106.03'
+  西允:
+    :latitude: '31.01'
+    :longitude: '105.84'
+  营山:
+    :latitude: '31.07'
+    :longitude: '106.57'
+  蓬安:
+    :latitude: '31.04'
+    :longitude: '106.44'
+  广安:
+    :latitude: '30.48'
+    :longitude: '106.61'
+  岳池:
+    :latitude: '30.55'
+    :longitude: '106.43'
+  武胜:
+    :latitude: '30.38'
+    :longitude: '106.3'
+  华云:
+    :latitude: '30.41'
+    :longitude: '106.74'
+  达县:
+    :latitude: '31.23'
+    :longitude: '107.49'
+  万源:
+    :latitude: '32.07'
+    :longitude: '108.06'
+  宜汉:
+    :latitude: '31.39'
+    :longitude: '107.71'
+  开江:
+    :latitude: '31.1'
+    :longitude: '107.87'
+  邻水:
+    :latitude: '30.36'
+    :longitude: '106.91'
+  大竹:
+    :latitude: '30.75'
+    :longitude: '107.21'
+  渠县:
+    :latitude: '30.85'
+    :longitude: '106.94'
+  南江:
+    :latitude: '32.36'
+    :longitude: '106.83'
+  巴中:
+    :latitude: '31.86'
+    :longitude: '106.73'
+  平昌:
+    :latitude: '31.59'
+    :longitude: '107.11'
+  通江:
+    :latitude: '31.95'
+    :longitude: '108.24'
+  百沙:
+    :latitude: '32'
+    :longitude: '108.18'
+  雅安:
+    :latitude: '29.97'
+    :longitude: '102.97'
+  芦山:
+    :latitude: '30.17'
+    :longitude: '102.91'
+  名山:
+    :latitude: '30.09'
+    :longitude: '103.06'
+  荣经:
+    :latitude: '29.79'
+    :longitude: '102.81'
+  汉源:
+    :latitude: '29.4'
+    :longitude: '102.66'
+  石棉:
+    :latitude: '29.21'
+    :longitude: '102.38'
+  天全:
+    :latitude: '30.09'
+    :longitude: '102.78'
+  宝兴:
+    :latitude: '30.36'
+    :longitude: '102.84'
+  马尔康:
+    :latitude: '31.92'
+    :longitude: '102.22'
+  红原:
+    :latitude: '31.79'
+    :longitude: '102.55'
+  阿坝:
+    :latitude: '31.93'
+    :longitude: '101.72'
+  若尔盖:
+    :latitude: '33.62'
+    :longitude: '102.94'
+  黑水:
+    :latitude: '32.06'
+    :longitude: '102.95'
+  松潘:
+    :latitude: '32.64'
+    :longitude: '103.61'
+  南坪:
+    :latitude: '33.23'
+    :longitude: '104.19'
+  汶川:
+    :latitude: '31.46'
+    :longitude: '103.61'
+  理县:
+    :latitude: '31.42'
+    :longitude: '103.16'
+  小金:
+    :latitude: '30.97'
+    :longitude: '102.34'
+  金川:
+    :latitude: '31.48'
+    :longitude: '102.03'
+  壤塘:
+    :latitude: '32.3'
+    :longitude: '100.97'
+  茂汶:
+    :latitude: '31.67'
+    :longitude: '103.89'
+  康定:
+    :latitude: '30.04'
+    :longitude: '101.95'
+  炉霍:
+    :latitude: '31.38'
+    :longitude: '100.65'
+  甘孜:
+    :latitude: '31.64'
+    :longitude: '99.96'
+  新龙:
+    :latitude: '30.96'
+    :longitude: '100.28'
+  白玉:
+    :latitude: '32.23'
+    :longitude: '98.83'
+  德格:
+    :latitude: '31.81'
+    :longitude: '98.57'
+  石渠:
+    :latitude: '33.01'
+    :longitude: '98.06'
+  色达:
+    :latitude: '32.3'
+    :longitude: '100.35'
+  泸定:
+    :latitude: '29.92'
+    :longitude: '102.25'
+  丹巴:
+    :latitude: '30.85'
+    :longitude: '101.87'
+  九龙:
+    :latitude: '29.01'
+    :longitude: '101.53'
+  雅江:
+    :latitude: '30.03'
+    :longitude: '101'
+  道孚:
+    :latitude: '30.99'
+    :longitude: '101.14'
+  理塘:
+    :latitude: '30.03'
+    :longitude: '100.28'
+  乡城:
+    :latitude: '28.93'
+    :longitude: '99.78'
+  稻城:
+    :latitude: '29.04'
+    :longitude: '100.31'
+  巴塘:
+    :latitude: '30'
+    :longitude: '99'
+  得荣:
+    :latitude: '28.71'
+    :longitude: '99.25'
+  西昌:
+    :latitude: '27.92'
+    :longitude: '102.29'
+  昭觉:
+    :latitude: '28.03'
+    :longitude: '102.83'
+  甘洛:
+    :latitude: '28.96'
+    :longitude: '102.74'
+  雷波:
+    :latitude: '28.21'
+    :longitude: '103.62'
+  宁南:
+    :latitude: '27.07'
+    :longitude: '102.76'
+  会东:
+    :latitude: '26.74'
+    :longitude: '102.55'
+  会理:
+    :latitude: '26.67'
+    :longitude: '102.21'
+  德昌:
+    :latitude: '27.4'
+    :longitude: '102.15'
+  美姑:
+    :latitude: '28.33'
+    :longitude: '103.14'
+  金阳:
+    :latitude: '27.73'
+    :longitude: '103.22'
+  布拖:
+    :latitude: '27.7'
+    :longitude: '102.8'
+  普格:
+    :latitude: '27.38'
+    :longitude: '102.52'
+  喜德:
+    :latitude: '28.33'
+    :longitude: '102.42'
+  越西:
+    :latitude: '28.66'
+    :longitude: '102.49'
+  盐源:
+    :latitude: '27.42'
+    :longitude: '101.51'
+  冕宁:
+    :latitude: '28.58'
+    :longitude: '102.15'
+  木里:
+    :latitude: '27.9'
+    :longitude: '101.25'
+天津:
+  天津:
+    :latitude: '39.13'
+    :longitude: '117.2'
+  宁河:
+    :latitude: '39.33'
+    :longitude: '117.83'
+  静海:
+    :latitude: '38.93'
+    :longitude: '116.92'
+  蓟县:
+    :latitude: '40.05'
+    :longitude: '117.4'
+  宝坻:
+    :latitude: '39.75'
+    :longitude: '117.3'
+  武清:
+    :latitude: '39.4'
+    :longitude: '117.05'
+宁夏:
+  回族自治区银川:
+    :latitude: '38.47'
+    :longitude: '106.27'
+  回族自治区永宁:
+    :latitude: '38.28'
+    :longitude: '106.24'
+  回族自治区贺兰:
+    :latitude: '38.55'
+    :longitude: '106.35'
+  回族自治区石嘴山:
+    :latitude: '39.04'
+    :longitude: '106.39'
+  回族自治区平罗:
+    :latitude: '38.91'
+    :longitude: '106.54'
+  回族自治区陶乐:
+    :latitude: '38.82'
+    :longitude: '106.69'
+  回族自治区吴忠:
+    :latitude: '37.99'
+    :longitude: '106.21'
+  回族自治区同心:
+    :latitude: '36.97'
+    :longitude: '105.94'
+  回族自治区灵武:
+    :latitude: '38.1'
+    :longitude: '106.34'
+  回族自治区中宁:
+    :latitude: '37.48'
+    :longitude: '105.66'
+  回族自治区盐池:
+    :latitude: '37.78'
+    :longitude: '107.41'
+  回族自治区中卫:
+    :latitude: '37.51'
+    :longitude: '105.18'
+  回族自治区青铜峡:
+    :latitude: '38.02'
+    :longitude: '106.07'
+  回族自治区固原:
+    :latitude: '36.01'
+    :longitude: '106.28'
+  回族自治区西吉:
+    :latitude: '35.97'
+    :longitude: '105.7'
+  回族自治区泾源:
+    :latitude: '35.5'
+    :longitude: '106.33'
+  回族自治区海原:
+    :latitude: '36.56'
+    :longitude: '105.64'
+  回族自治区隆德:
+    :latitude: '35.63'
+    :longitude: '106.11'
+安徽:
+  合肥:
+    :latitude: '31.86'
+    :longitude: '117.27'
+  长丰:
+    :latitude: '32.47'
+    :longitude: '117.16'
+  淮南:
+    :latitude: '32.62'
+    :longitude: '116.98'
+  凤台:
+    :latitude: '32.68'
+    :longitude: '116.71'
+  淮北:
+    :latitude: '33.97'
+    :longitude: '116.77'
+  濉溪:
+    :latitude: '33.92'
+    :longitude: '116.76'
+  芜湖:
+    :latitude: '31.33'
+    :longitude: '118.38'
+  铜陵:
+    :latitude: '30.93'
+    :longitude: '117.82'
+  蚌埠:
+    :latitude: '32.93'
+    :longitude: '117.34'
+  马鞍山:
+    :latitude: '31.56'
+    :longitude: '118.48'
+  安庆:
+    :latitude: '30.52'
+    :longitude: '117.03'
+  宿州:
+    :latitude: '33.63'
+    :longitude: '116.97'
+  宿县:
+    :latitude: '33.63'
+    :longitude: '116.97'
+  砀山:
+    :latitude: '34.42'
+    :longitude: '116.34'
+  萧县:
+    :latitude: '34.19'
+    :longitude: '116.93'
+  吴壁:
+    :latitude: '33.55'
+    :longitude: '117.55'
+  泗县:
+    :latitude: '33.49'
+    :longitude: '117.89'
+  五河:
+    :latitude: '33.14'
+    :longitude: '117.87'
+  固镇:
+    :latitude: '33.33'
+    :longitude: '117.32'
+  怀远:
+    :latitude: '32.95'
+    :longitude: '117.19'
+  滁州:
+    :latitude: '32.33'
+    :longitude: '118.31'
+  嘉山:
+    :latitude: '32.78'
+    :longitude: '117.98'
+  天长:
+    :latitude: '32.68'
+    :longitude: '119'
+  来安:
+    :latitude: '32.44'
+    :longitude: '118.44'
+  全椒:
+    :latitude: '32.1'
+    :longitude: '118.27'
+  定远:
+    :latitude: '32.52'
+    :longitude: '117.68'
+  凤阳:
+    :latitude: '32.86'
+    :longitude: '117.4'
+  巢湖:
+    :latitude: '31.62'
+    :longitude: '117.87'
+  巢县:
+    :latitude: '31.62'
+    :longitude: '117.87'
+  肥东:
+    :latitude: '31.89'
+    :longitude: '117.47'
+  含山:
+    :latitude: '31.7'
+    :longitude: '118.11'
+  和县:
+    :latitude: '31.7'
+    :longitude: '118.37'
+  无为:
+    :latitude: '31.3'
+    :longitude: '117.75'
+  卢江:
+    :latitude: '31.23'
+    :longitude: '117.29'
+  宣城:
+    :latitude: '31.95'
+    :longitude: '118.73'
+  当涂:
+    :latitude: '31.55'
+    :longitude: '118.49'
+  郎溪:
+    :latitude: '31.14'
+    :longitude: '119.17'
+  广德:
+    :latitude: '30.89'
+    :longitude: '119.41'
+  泾县:
+    :latitude: '30.68'
+    :longitude: '118.41'
+  南陵:
+    :latitude: '30.91'
+    :longitude: '118.32'
+  繁昌:
+    :latitude: '31.07'
+    :longitude: '118.21'
+  宁国:
+    :latitude: '30.62'
+    :longitude: '118.95'
+  青阳:
+    :latitude: '30.64'
+    :longitude: '117.84'
+  屯溪:
+    :latitude: '29.72'
+    :longitude: '118.31'
+  休宁:
+    :latitude: '29.81'
+    :longitude: '118.19'
+  旌得:
+    :latitude: '30.28'
+    :longitude: '118.53'
+  绩溪:
+    :latitude: '30.07'
+    :longitude: '118.57'
+  歙县:
+    :latitude: '29.88'
+    :longitude: '118.44'
+  祁门:
+    :latitude: '29.86'
+    :longitude: '117.7'
+  黟县:
+    :latitude: '29.93'
+    :longitude: '117.92'
+  太平:
+    :latitude: '30.28'
+    :longitude: '118.13'
+  石台:
+    :latitude: '30.19'
+    :longitude: '117.48'
+  桐城:
+    :latitude: '31.04'
+    :longitude: '116.94'
+  纵阳:
+    :latitude: '30.69'
+    :longitude: '117.21'
+  怀宁:
+    :latitude: '30.41'
+    :longitude: '116.63'
+  望江:
+    :latitude: '30.12'
+    :longitude: '116.69'
+  宿松:
+    :latitude: '30.15'
+    :longitude: '116.13'
+  太湖:
+    :latitude: '30.42'
+    :longitude: '116.27'
+  岳西:
+    :latitude: '30.84'
+    :longitude: '116.36'
+  潜山:
+    :latitude: '30.62'
+    :longitude: '116.53'
+  东至:
+    :latitude: '30.08'
+    :longitude: '116.99'
+  贵池:
+    :latitude: '30.66'
+    :longitude: '117.48'
+  六安:
+    :latitude: '31.73'
+    :longitude: '116.49'
+  霍丘:
+    :latitude: '32.32'
+    :longitude: '116.27'
+  寿县:
+    :latitude: '32.57'
+    :longitude: '116.78'
+  肥西:
+    :latitude: '31.7'
+    :longitude: '117.15'
+  舒城:
+    :latitude: '31.45'
+    :longitude: '116.94'
+  霍山:
+    :latitude: '31.38'
+    :longitude: '116.32'
+  金寨:
+    :latitude: '31.67'
+    :longitude: '115.87'
+  阜阳:
+    :latitude: '32.89'
+    :longitude: '115.81'
+  毫县:
+    :latitude: '33.86'
+    :longitude: '116.76'
+  涡阳:
+    :latitude: '33.49'
+    :longitude: '116.21'
+  蒙城:
+    :latitude: '33.25'
+    :longitude: '116.55'
+  利辛:
+    :latitude: '33.12'
+    :longitude: '116.19'
+  颖上:
+    :latitude: '32.62'
+    :longitude: '116.26'
+  阜南:
+    :latitude: '32.63'
+    :longitude: '115.6'
+  临泉:
+    :latitude: '33.06'
+    :longitude: '115.24'
+  界首:
+    :latitude: '33.24'
+    :longitude: '115.34'
+  太和:
+    :latitude: '33.16'
+    :longitude: '115.61'
+山东:
+  济南:
+    :latitude: '36.65'
+    :longitude: '117'
+  历城:
+    :latitude: '36.69'
+    :longitude: '117.07'
+  长清:
+    :latitude: '36.55'
+    :longitude: '116.73'
+  章丘:
+    :latitude: '36.72'
+    :longitude: '117.53'
+  青岛:
+    :latitude: '36.07'
+    :longitude: '120.33'
+  崂山:
+    :latitude: '36.15'
+    :longitude: '120.42'
+  胶南:
+    :latitude: '35.88'
+    :longitude: '119.97'
+  即墨:
+    :latitude: '36.38'
+    :longitude: '120.45'
+  胶县:
+    :latitude: '36.28'
+    :longitude: '120'
+  淄博:
+    :latitude: '36.78'
+    :longitude: '118.05'
+  枣庄:
+    :latitude: '34.86'
+    :longitude: '117.57'
+  滕县:
+    :latitude: '35.09'
+    :longitude: '117.17'
+  东营:
+    :latitude: '37.46'
+    :longitude: '118.49'
+  垦利:
+    :latitude: '37.59'
+    :longitude: '118.54'
+  利津:
+    :latitude: '37.49'
+    :longitude: '118.25'
+  德州:
+    :latitude: '37.45'
+    :longitude: '116.29'
+  宁津:
+    :latitude: '37.64'
+    :longitude: '116.8'
+  乐陵:
+    :latitude: '37.74'
+    :longitude: '117.22'
+  商河:
+    :latitude: '37.31'
+    :longitude: '117.15'
+  济阳:
+    :latitude: '36.97'
+    :longitude: '117.2'
+  禹城:
+    :latitude: '36.95'
+    :longitude: '116.66'
+  夏津:
+    :latitude: '36.95'
+    :longitude: '116'
+  陵县:
+    :latitude: '37.34'
+    :longitude: '116.58'
+  庆云:
+    :latitude: '37.37'
+    :longitude: '117.37'
+  临邑:
+    :latitude: '37.2'
+    :longitude: '116.86'
+  齐河:
+    :latitude: '36.79'
+    :longitude: '116.76'
+  平原:
+    :latitude: '37.16'
+    :longitude: '116.44'
+  武城:
+    :latitude: '37.2'
+    :longitude: '116.08'
+  滨州:
+    :latitude: '37.36'
+    :longitude: '118.03'
+  滨县:
+    :latitude: '37.47'
+    :longitude: '117.97'
+  广饶:
+    :latitude: '37.04'
+    :longitude: '118.41'
+  桓台:
+    :latitude: '36.95'
+    :longitude: '118.12'
+  邹平:
+    :latitude: '36.89'
+    :longitude: '117.75'
+  阳信:
+    :latitude: '37.65'
+    :longitude: '117.58'
+  沾化:
+    :latitude: '37.7'
+    :longitude: '118.14'
+  博兴:
+    :latitude: '37.12'
+    :longitude: '118.12'
+  高青:
+    :latitude: '37.18'
+    :longitude: '117.66'
+  惠民:
+    :latitude: '17.49'
+    :longitude: '117.51'
+  无棣:
+    :latitude: '37.73'
+    :longitude: '117.58'
+  潍坊:
+    :latitude: '36.62'
+    :longitude: '119.1'
+  潍县:
+    :latitude: '36.77'
+    :longitude: '119.22'
+  平度:
+    :latitude: '36.77'
+    :longitude: '119.97'
+  诸城:
+    :latitude: '35.99'
+    :longitude: '119.42'
+  安丘:
+    :latitude: '36.42'
+    :longitude: '119.2'
+  临朐:
+    :latitude: '36.5'
+    :longitude: '118.53'
+  寿光:
+    :latitude: '36.86'
+    :longitude: '118.73'
+  昌邑:
+    :latitude: '36.86'
+    :longitude: '119.41'
+  高密:
+    :latitude: '36.38'
+    :longitude: '119.75'
+  五莲:
+    :latitude: '35.74'
+    :longitude: '119.2'
+  昌乐:
+    :latitude: '36.69'
+    :longitude: '118.83'
+  高都:
+    :latitude: '36.69'
+    :longitude: '118.47'
+  烟台:
+    :latitude: '37.52'
+    :longitude: '121.39'
+  牟平:
+    :latitude: '37.38'
+    :longitude: '121.59'
+  文登:
+    :latitude: '37.2'
+    :longitude: '122.05'
+  海阳:
+    :latitude: '36.76'
+    :longitude: '121.17'
+  莱阳:
+    :latitude: '36.97'
+    :longitude: '120.71'
+  栖霞:
+    :latitude: '37.28'
+    :longitude: '120.83'
+  掖县:
+    :latitude: '37.18'
+    :longitude: '119.93'
+  长岛:
+    :latitude: '37.91'
+    :longitude: '120.73'
+  威海:
+    :latitude: '37.5'
+    :longitude: '122.1'
+  福山:
+    :latitude: '37.49'
+    :longitude: '121.27'
+  荣成:
+    :latitude: '37.16'
+    :longitude: '122.41'
+  乳山:
+    :latitude: '36.89'
+    :longitude: '121.52'
+  莱西:
+    :latitude: '36.86'
+    :longitude: '120.53'
+  招远:
+    :latitude: '37.35'
+    :longitude: '120.38'
+  黄县:
+    :latitude: '37.64'
+    :longitude: '120.51'
+  蓬莱:
+    :latitude: '37.8'
+    :longitude: '120.75'
+  临沂:
+    :latitude: '35.05'
+    :longitude: '118.35'
+  沂水:
+    :latitude: '35.78'
+    :longitude: '118.64'
+  日照:
+    :latitude: '35.42'
+    :longitude: '119.46'
+  临沭:
+    :latitude: '34.89'
+    :longitude: '118.73'
+  仓山:
+    :latitude: '34.84'
+    :longitude: '118.03'
+  平邑:
+    :latitude: '35.49'
+    :longitude: '117.63'
+  沂源:
+    :latitude: '36.18'
+    :longitude: '118.17'
+  沂南:
+    :latitude: '35.54'
+    :longitude: '118.47'
+  营县:
+    :latitude: '35.57'
+    :longitude: '118.83'
+  莒南:
+    :latitude: '35.17'
+    :longitude: '118.83'
+  郯城:
+    :latitude: '34.61'
+    :longitude: '118.35'
+  费县:
+    :latitude: '35.26'
+    :longitude: '117.97'
+  蒙阴:
+    :latitude: '35.7'
+    :longitude: '117.95'
+  泰安:
+    :latitude: '36.18'
+    :longitude: '117.13'
+  莱芜:
+    :latitude: '36.19'
+    :longitude: '117.67'
+  肥城:
+    :latitude: '36.24'
+    :longitude: '116.76'
+  平阴:
+    :latitude: '36.29'
+    :longitude: '116.46'
+  新汶:
+    :latitude: '35.86'
+    :longitude: '117.67'
+  新泰:
+    :latitude: '35.91'
+    :longitude: '117.76'
+  宁阳:
+    :latitude: '35.76'
+    :longitude: '116.8'
+  东平:
+    :latitude: '35.91'
+    :longitude: '116.3'
+  济宁:
+    :latitude: '35.38'
+    :longitude: '116.59'
+  兖州:
+    :latitude: '35.54'
+    :longitude: '116.83'
+  泗水:
+    :latitude: '35.65'
+    :longitude: '117.27'
+  鱼台:
+    :latitude: '35'
+    :longitude: '116.65'
+  嘉祥:
+    :latitude: '35.41'
+    :longitude: '116.34'
+  汶上:
+    :latitude: '35.71'
+    :longitude: '116.49'
+  曲阜:
+    :latitude: '35.59'
+    :longitude: '116.98'
+  邹县:
+    :latitude: '35.39'
+    :longitude: '116.97'
+  微山:
+    :latitude: '34.8'
+    :longitude: '117.12'
+  金乡:
+    :latitude: '35.07'
+    :longitude: '116.32'
+  荷泽:
+    :latitude: '35.24'
+    :longitude: '115.43'
+  郓城:
+    :latitude: '35.59'
+    :longitude: '115.94'
+  巨野:
+    :latitude: '35.38'
+    :longitude: '116.08'
+  单县:
+    :latitude: '34.82'
+    :longitude: '116.07'
+  曹县:
+    :latitude: '34.83'
+    :longitude: '115.53'
+  鄄城:
+    :latitude: '35.57'
+    :longitude: '115.5'
+  梁山:
+    :latitude: '35.8'
+    :longitude: '116.1'
+  成武:
+    :latitude: '34.97'
+    :longitude: '115.88'
+  定陶:
+    :latitude: '35.07'
+    :longitude: '115.57'
+  东明:
+    :latitude: '35.31'
+    :longitude: '115.08'
+  聊城:
+    :latitude: '36.45'
+    :longitude: '115.97'
+  高唐:
+    :latitude: '36.86'
+    :longitude: '116.23'
+  东阿:
+    :latitude: '36.32'
+    :longitude: '116.23'
+  莘县:
+    :latitude: '36.24'
+    :longitude: '115.67'
+  临清:
+    :latitude: '36.68'
+    :longitude: '115.72'
+  茌平:
+    :latitude: '36.58'
+    :longitude: '116.27'
+  阳谷:
+    :latitude: '36.11'
+    :longitude: '115.78'
+  冠县:
+    :latitude: '35.47'
+    :longitude: '115.45'
+山西:
+  太原:
+    :latitude: '37.87'
+    :longitude: '112.53'
+  阳曲:
+    :latitude: '38.05'
+    :longitude: '112.65'
+  娄烦:
+    :latitude: '38.05'
+    :longitude: '111.78'
+  清徐:
+    :latitude: '37.62'
+    :longitude: '112.33'
+  大同:
+    :latitude: '40.12'
+    :longitude: '113.3'
+  阳泉:
+    :latitude: '37.85'
+    :longitude: '113.57'
+  长治:
+    :latitude: '36.18'
+    :longitude: '113.08'
+  天镇:
+    :latitude: '40.42'
+    :longitude: '114.08'
+  灵丘:
+    :latitude: '39.47'
+    :longitude: '114.2'
+  怀仁:
+    :latitude: '39.82'
+    :longitude: '113.1'
+  山阴:
+    :latitude: '39.52'
+    :longitude: '112.82'
+  平鲁:
+    :latitude: '39.53'
+    :longitude: '112.12'
+  右玉:
+    :latitude: '40.18'
+    :longitude: '112.33'
+  阳高:
+    :latitude: '40.38'
+    :longitude: '113.72'
+  广灵:
+    :latitude: '39.75'
+    :longitude: '113.27'
+  浑源:
+    :latitude: '39.7'
+    :longitude: '113.68'
+  应县:
+    :latitude: '39.58'
+    :longitude: '113.18'
+  朔县:
+    :latitude: '39.32'
+    :longitude: '112.42'
+  左云:
+    :latitude: '40.02'
+    :longitude: '112.67'
+  忻县:
+    :latitude: '38.38'
+    :longitude: '112.7'
+  代县:
+    :latitude: '39.07'
+    :longitude: '112.97'
+  五台:
+    :latitude: '38.72'
+    :longitude: '113.32'
+  静乐:
+    :latitude: '38.37'
+    :longitude: '111.9'
+  保德:
+    :latitude: '38.01'
+    :longitude: '111.09'
+  河曲:
+    :latitude: '39.38'
+    :longitude: '111.17'
+  神池:
+    :latitude: '39.1'
+    :longitude: '112.17'
+  原平:
+    :latitude: '38.73'
+    :longitude: '112.7'
+  繁峙:
+    :latitude: '39.2'
+    :longitude: '113.28'
+  定襄:
+    :latitude: '38.5'
+    :longitude: '112.95'
+  岢岚:
+    :latitude: '38.7'
+    :longitude: '111.58'
+  五寨:
+    :latitude: '38.93'
+    :longitude: '111.82'
+  偏关:
+    :latitude: '39.45'
+    :longitude: '111.47'
+  宁武:
+    :latitude: '39'
+    :longitude: '112.28'
+  榆次:
+    :latitude: '37.68'
+    :longitude: '112.72'
+  孟县:
+    :latitude: '38.01'
+    :longitude: '113.37'
+  昔阳:
+    :latitude: '37.62'
+    :longitude: '113.68'
+  左权:
+    :latitude: '37.07'
+    :longitude: '113.35'
+  太谷:
+    :latitude: '37.42'
+    :longitude: '112.53'
+  平遥:
+    :latitude: '37.2'
+    :longitude: '112.18'
+  灵石:
+    :latitude: '36.83'
+    :longitude: '111.77'
+  寿阳:
+    :latitude: '37.88'
+    :longitude: '113.17'
+  平定:
+    :latitude: '37.79'
+    :longitude: '113.62'
+  和顺:
+    :latitude: '37.33'
+    :longitude: '113.55'
+  榆社:
+    :latitude: '37.08'
+    :longitude: '112.97'
+  祁县:
+    :latitude: '37.36'
+    :longitude: '112.33'
+  介休:
+    :latitude: '37.03'
+    :longitude: '111.88'
+  离石:
+    :latitude: '37.53'
+    :longitude: '111.13'
+  兴县:
+    :latitude: '38.47'
+    :longitude: '111.22'
+  方由:
+    :latitude: '37.86'
+    :longitude: '111.24'
+  岚县:
+    :latitude: '38.28'
+    :longitude: '111.62'
+  交城:
+    :latitude: '37.55'
+    :longitude: '112.14'
+  文水:
+    :latitude: '37.42'
+    :longitude: '112.02'
+  汾阳:
+    :latitude: '37.27'
+    :longitude: '111.75'
+  孝义:
+    :latitude: '37.12'
+    :longitude: '111.8'
+  交口:
+    :latitude: '36.97'
+    :longitude: '111.2'
+  石楼:
+    :latitude: '37'
+    :longitude: '110.83'
+  中阳:
+    :latitude: '37.37'
+    :longitude: '111.17'
+  临县:
+    :latitude: '37.95'
+    :longitude: '110.95'
+  柳林:
+    :latitude: '37.45'
+    :longitude: '110.85'
+  襄垣:
+    :latitude: '36.55'
+    :longitude: '113.02'
+  黎城:
+    :latitude: '36.56'
+    :longitude: '113.4'
+  壶关:
+    :latitude: '35.11'
+    :longitude: '113.23'
+  高平:
+    :latitude: '35.48'
+    :longitude: '112.88'
+  阳城:
+    :latitude: '35.84'
+    :longitude: '112.38'
+  长子:
+    :latitude: '36.13'
+    :longitude: '112.87'
+  沁源:
+    :latitude: '36.5'
+    :longitude: '112.32'
+  潞城:
+    :latitude: '36.33'
+    :longitude: '113.22'
+  武乡:
+    :latitude: '36.83'
+    :longitude: '112.83'
+  平顺:
+    :latitude: '36.19'
+    :longitude: '113.43'
+  陵川:
+    :latitude: '35.78'
+    :longitude: '113.27'
+  晋城:
+    :latitude: '35.52'
+    :longitude: '112.83'
+  沁水:
+    :latitude: '35.67'
+    :longitude: '112.15'
+  屯留:
+    :latitude: '36.32'
+    :longitude: '112.87'
+  沁县:
+    :latitude: '36.75'
+    :longitude: '112.68'
+  临汾:
+    :latitude: '36.08'
+    :longitude: '111.5'
+  汾西:
+    :latitude: '36.63'
+    :longitude: '111.53'
+  安泽:
+    :latitude: '36.15'
+    :longitude: '112.2'
+  古县:
+    :latitude: '36.29'
+    :longitude: '111.9'
+  翼城:
+    :latitude: '35.73'
+    :longitude: '111.68'
+  曲沃:
+    :latitude: '35.63'
+    :longitude: '111.33'
+  吉县:
+    :latitude: '36.12'
+    :longitude: '110.65'
+  大宁:
+    :latitude: '36.47'
+    :longitude: '110.72'
+  侯马:
+    :latitude: '35.03'
+    :longitude: '111.45'
+  永和:
+    :latitude: '36.62'
+    :longitude: '110.64'
+  洪洞:
+    :latitude: '36.25'
+    :longitude: '111.68'
+  霍县:
+    :latitude: '36.57'
+    :longitude: '111.72'
+  浮山:
+    :latitude: '35.97'
+    :longitude: '111.83'
+  襄汾:
+    :latitude: '35.86'
+    :longitude: '111.43'
+  乡宁:
+    :latitude: '35.97'
+    :longitude: '110.8'
+  蒲县:
+    :latitude: '36.42'
+    :longitude: '111.07'
+  运城:
+    :latitude: '35.03'
+    :longitude: '110.97'
+  闻喜:
+    :latitude: '35.37'
+    :longitude: '111.2'
+  垣曲:
+    :latitude: '35.3'
+    :longitude: '111.63'
+  芮城:
+    :latitude: '34.71'
+    :longitude: '110.68'
+  临猗:
+    :latitude: '35.15'
+    :longitude: '110.78'
+  新绛:
+    :latitude: '35.62'
+    :longitude: '111.22'
+  河津:
+    :latitude: '35.58'
+    :longitude: '110.7'
+  夏县:
+    :latitude: '35.12'
+    :longitude: '111.22'
+  绛县:
+    :latitude: '35.48'
+    :longitude: '111.58'
+  平陆:
+    :latitude: '34.12'
+    :longitude: '111.2'
+  永济:
+    :latitude: '34.88'
+    :longitude: '110.42'
+  万荣:
+    :latitude: '35.42'
+    :longitude: '110.83'
+  稷山:
+    :latitude: '35.6'
+    :longitude: '110.97'
+广东:
+  广州:
+    :latitude: '23.16'
+    :longitude: '113.23'
+  花县:
+    :latitude: '23.4'
+    :longitude: '113.19'
+  新十:
+    :latitude: '24.09'
+    :longitude: '114.2'
+  增城:
+    :latitude: '23.13'
+    :longitude: '113.81'
+  从化:
+    :latitude: '23.57'
+    :longitude: '113.55'
+  龙门:
+    :latitude: '23.75'
+    :longitude: '114.25'
+  番禺:
+    :latitude: '22.95'
+    :longitude: '113.36'
+  海口:
+    :latitude: '20.02'
+    :longitude: '110.35'
+  汕头:
+    :latitude: '23.39'
+    :longitude: '116.69'
+  洪江:
+    :latitude: '21.2'
+    :longitude: '110.38'
+  茂名:
+    :latitude: '21.68'
+    :longitude: '110.88'
+  佛山:
+    :latitude: '23.05'
+    :longitude: '113.11'
+  江门:
+    :latitude: '22.61'
+    :longitude: '113.06'
+  深圳:
+    :latitude: '22.62'
+    :longitude: '114.07'
+  宝安:
+    :latitude: '22.58'
+    :longitude: '113.85'
+  珠海:
+    :latitude: '22.3'
+    :longitude: '113.52'
+  韶关:
+    :latitude: '24.84'
+    :longitude: '113.62'
+  曲江:
+    :latitude: '24.68'
+    :longitude: '113.58'
+  乐昌:
+    :latitude: '25.14'
+    :longitude: '113.35'
+  仁化:
+    :latitude: '25.11'
+    :longitude: '113.73'
+  南雄:
+    :latitude: '25.14'
+    :longitude: '114.33'
+  始兴:
+    :latitude: '24.78'
+    :longitude: '114.08'
+  翁源:
+    :latitude: '24.36'
+    :longitude: '114.13'
+  佛岗:
+    :latitude: '23.86'
+    :longitude: '113.52'
+  英德:
+    :latitude: '24.17'
+    :longitude: '113.38'
+  清远:
+    :latitude: '23.7'
+    :longitude: '113.01'
+  阳山:
+    :latitude: '24.48'
+    :longitude: '112.65'
+  连县:
+    :latitude: '24.77'
+    :longitude: '112.4'
+  连山:
+    :latitude: '24.59'
+    :longitude: '112.07'
+  连南:
+    :latitude: '24.77'
+    :longitude: '112.28'
+  惠州:
+    :latitude: '23.09'
+    :longitude: '114.4'
+  惠阳:
+    :latitude: '23.09'
+    :longitude: '114.4'
+  博罗:
+    :latitude: '23.18'
+    :longitude: '114.28'
+  河源:
+    :latitude: '23.73'
+    :longitude: '114.68'
+  连平:
+    :latitude: '24.39'
+    :longitude: '114.48'
+  和平:
+    :latitude: '24.45'
+    :longitude: '114.89'
+  龙川:
+    :latitude: '24.09'
+    :longitude: '115.25'
+  紫金:
+    :latitude: '23.64'
+    :longitude: '115.18'
+  惠东:
+    :latitude: '22.97'
+    :longitude: '114.7'
+  东莞:
+    :latitude: '23.04'
+    :longitude: '113.75'
+  梅州:
+    :latitude: '24.55'
+    :longitude: '116.1'
+  梅县:
+    :latitude: '24.55'
+    :longitude: '116.1'
+  平远:
+    :latitude: '24.59'
+    :longitude: '117.9'
+  蕉岭:
+    :latitude: '24.66'
+    :longitude: '116.18'
+  大埔:
+    :latitude: '24.34'
+    :longitude: '116.7'
+  丰顺:
+    :latitude: '23.78'
+    :longitude: '116.18'
+  五华:
+    :latitude: '23.93'
+    :longitude: '115.75'
+  兴宁:
+    :latitude: '24.15'
+    :longitude: '115.75'
+  潮州:
+    :latitude: '23.68'
+    :longitude: '116.63'
+  澄海:
+    :latitude: '23.48'
+    :longitude: '116.8'
+  潮安:
+    :latitude: '23.68'
+    :longitude: '116.63'
+  饶平:
+    :latitude: '23.7'
+    :longitude: '117.01'
+  南澳:
+    :latitude: '23.44'
+    :longitude: '117.03'
+  潮阳:
+    :latitude: '23.27'
+    :longitude: '116.61'
+  惠来:
+    :latitude: '23.07'
+    :longitude: '116.29'
+  陆丰:
+    :latitude: '22.95'
+    :longitude: '117.64'
+  海丰:
+    :latitude: '22.98'
+    :longitude: '117.33'
+  普宁:
+    :latitude: '23.29'
+    :longitude: '116.17'
+  揭西:
+    :latitude: '23.45'
+    :longitude: '115.82'
+  揭阳:
+    :latitude: '23.55'
+    :longitude: '116.35'
+  南海:
+    :latitude: '23.05'
+    :longitude: '113.11'
+  三水:
+    :latitude: '23.18'
+    :longitude: '112.89'
+  顺德:
+    :latitude: '22.84'
+    :longitude: '113.24'
+  中山:
+    :latitude: '22.52'
+    :longitude: '113.38'
+  斗门:
+    :latitude: '22.2'
+    :longitude: '113.25'
+  新会:
+    :latitude: '22.52'
+    :longitude: '113.02'
+  鹤山:
+    :latitude: '22.76'
+    :longitude: '112.94'
+  开平:
+    :latitude: '22.36'
+    :longitude: '112.68'
+  台山:
+    :latitude: '22.27'
+    :longitude: '112.78'
+  恩平:
+    :latitude: '22.21'
+    :longitude: '112.29'
+  高明:
+    :latitude: '21.71'
+    :longitude: '112.76'
+  廉江:
+    :latitude: '21.63'
+    :longitude: '110.27'
+  化州:
+    :latitude: '21.64'
+    :longitude: '110.59'
+  高州:
+    :latitude: '21.95'
+    :longitude: '110.83'
+  信宜:
+    :latitude: '22.36'
+    :longitude: '110.9'
+  阳春:
+    :latitude: '22.16'
+    :longitude: '111.78'
+  阳江:
+    :latitude: '21.85'
+    :longitude: '111.95'
+  电白:
+    :latitude: '21.52'
+    :longitude: '110.99'
+  吴川:
+    :latitude: '21.43'
+    :longitude: '110.78'
+  徐闻:
+    :latitude: '20.34'
+    :longitude: '110.17'
+  海康:
+    :latitude: '20.91'
+    :longitude: '110.07'
+  遂溪:
+    :latitude: '21.39'
+    :longitude: '110.24'
+  肇庆:
+    :latitude: '23.05'
+    :longitude: '112.44'
+  高要:
+    :latitude: '23.05'
+    :longitude: '112.44'
+  怀集:
+    :latitude: '23.93'
+    :longitude: '112.18'
+  广宁:
+    :latitude: '23.14'
+    :longitude: '112.43'
+  四会:
+    :latitude: '23.36'
+    :longitude: '112.68'
+  新兴:
+    :latitude: '22.68'
+    :longitude: '112.2'
+  云浮:
+    :latitude: '22.93'
+    :longitude: '112.02'
+  罗定:
+    :latitude: '22.77'
+    :longitude: '111.56'
+  郁南:
+    :latitude: '23.23'
+    :longitude: '111.51'
+  德庆:
+    :latitude: '23.15'
+    :longitude: '111.75'
+  封开:
+    :latitude: '23.45'
+    :longitude: '111.48'
+广西:
+  南宁:
+    :latitude: '22.84'
+    :longitude: '108.33'
+  柳州:
+    :latitude: '24.33'
+    :longitude: '109.4'
+  桂林:
+    :latitude: '25.29'
+    :longitude: '110.28'
+  梧州:
+    :latitude: '23.51'
+    :longitude: '111.34'
+  凭祥:
+    :latitude: '22.11'
+    :longitude: '106.75'
+  邕宁:
+    :latitude: '22.74'
+    :longitude: '108.49'
+  武鸣:
+    :latitude: '23.17'
+    :longitude: '108.27'
+  马山:
+    :latitude: '23.73'
+    :longitude: '108.2'
+  上林:
+    :latitude: '23.44'
+    :longitude: '108.59'
+  宾阳:
+    :latitude: '23.22'
+    :longitude: '108.8'
+  横县:
+    :latitude: '22.69'
+    :longitude: '109.2'
+  扶绥:
+    :latitude: '22.65'
+    :longitude: '107.92'
+  崇左:
+    :latitude: '22.42'
+    :longitude: '107.37'
+  宁明:
+    :latitude: '22.12'
+    :longitude: '107.08'
+  龙州:
+    :latitude: '22.36'
+    :longitude: '106.84'
+  大新:
+    :latitude: '22.85'
+    :longitude: '107.21'
+  天等:
+    :latitude: '23.08'
+    :longitude: '107.12'
+  隆安:
+    :latitude: '23.18'
+    :longitude: '107.68'
+  河池:
+    :latitude: '24.7'
+    :longitude: '108.06'
+  环江:
+    :latitude: '24.83'
+    :longitude: '108.26'
+  罗城:
+    :latitude: '24.79'
+    :longitude: '108.9'
+  宜山:
+    :latitude: '24.47'
+    :longitude: '108.64'
+  东兰:
+    :latitude: '24.53'
+    :longitude: '107.36'
+  凤山:
+    :latitude: '24.55'
+    :longitude: '107.05'
+  天峨:
+    :latitude: '25.01'
+    :longitude: '107.16'
+  南丹:
+    :latitude: '24.98'
+    :longitude: '107.54'
+  都安:
+    :latitude: '23.94'
+    :longitude: '108.09'
+  巴马:
+    :latitude: '24.15'
+    :longitude: '107.25'
+  合山:
+    :latitude: '23.82'
+    :longitude: '108.89'
+  柳城:
+    :latitude: '24.67'
+    :longitude: '109.24'
+  融安:
+    :latitude: '24.24'
+    :longitude: '109.37'
+  鹿寨:
+    :latitude: '24.49'
+    :longitude: '109.74'
+  象州:
+    :latitude: '23.98'
+    :longitude: '109.7'
+  武宜:
+    :latitude: '23.6'
+    :longitude: '109.66'
+  柳江:
+    :latitude: '24.27'
+    :longitude: '109.34'
+  来宾:
+    :latitude: '23.76'
+    :longitude: '109.24'
+  忻城:
+    :latitude: '24.07'
+    :longitude: '108.66'
+  融水:
+    :latitude: '25.07'
+    :longitude: '109.24'
+  三江:
+    :latitude: '25.8'
+    :longitude: '109.58'
+  金秀:
+    :latitude: '24.14'
+    :longitude: '110.18'
+  临桂:
+    :latitude: '25.22'
+    :longitude: '110.22'
+  灵川:
+    :latitude: '25.42'
+    :longitude: '110.33'
+  兴安:
+    :latitude: '25.6'
+    :longitude: '110.66'
+  资源:
+    :latitude: '26.03'
+    :longitude: '110.66'
+  全州:
+    :latitude: '25.96'
+    :longitude: '111.06'
+  灌阳:
+    :latitude: '25.49'
+    :longitude: '111.14'
+  恭城:
+    :latitude: '24.85'
+    :longitude: '110.81'
+  平乐:
+    :latitude: '24.64'
+    :longitude: '110.66'
+  荔浦:
+    :latitude: '24.51'
+    :longitude: '110.38'
+  永福:
+    :latitude: '24.99'
+    :longitude: '109.98'
+  龙胜:
+    :latitude: '25.78'
+    :longitude: '110.02'
+  苍悟:
+    :latitude: '23.51'
+    :longitude: '111.22'
+  钟山:
+    :latitude: '24.53'
+    :longitude: '111.3'
+  富川:
+    :latitude: '24.83'
+    :longitude: '110.26'
+  贺县:
+    :latitude: '24.44'
+    :longitude: '111.54'
+  岑溪:
+    :latitude: '22.95'
+    :longitude: '111'
+  藤县:
+    :latitude: '23.36'
+    :longitude: '110.9'
+  蒙山:
+    :latitude: '24.22'
+    :longitude: '110.54'
+  昭平:
+    :latitude: '24.18'
+    :longitude: '110.8'
+  玉林:
+    :latitude: '22.64'
+    :longitude: '110.14'
+  桂平:
+    :latitude: '23.38'
+    :longitude: '110.07'
+  平南:
+    :latitude: '23.55'
+    :longitude: '110.4'
+  容县:
+    :latitude: '22.87'
+    :longitude: '110.53'
+  北流:
+    :latitude: '22.71'
+    :longitude: '110.33'
+  陆川:
+    :latitude: '22.33'
+    :longitude: '110.25'
+  博白:
+    :latitude: '22.27'
+    :longitude: '109.98'
+  贵县:
+    :latitude: '23.11'
+    :longitude: '109.6'
+  北海:
+    :latitude: '21.49'
+    :longitude: '109.12'
+  钦州:
+    :latitude: '21.96'
+    :longitude: '108.61'
+  灵山:
+    :latitude: '22.44'
+    :longitude: '109.29'
+  浦北:
+    :latitude: '22.27'
+    :longitude: '109.56'
+  合浦:
+    :latitude: '21.33'
+    :longitude: '109.2'
+  上思:
+    :latitude: '22.16'
+    :longitude: '107.98'
+  防城:
+    :latitude: '21.78'
+    :longitude: '108.35'
+  百色:
+    :latitude: '23.91'
+    :longitude: '106.62'
+  凌云:
+    :latitude: '24.35'
+    :longitude: '106.55'
+  乐业:
+    :latitude: '24.78'
+    :longitude: '106.56'
+  田阳:
+    :latitude: '23.75'
+    :longitude: '106.9'
+  田东:
+    :latitude: '23.62'
+    :longitude: '107.12'
+  平果:
+    :latitude: '23.33'
+    :longitude: '107.59'
+  德保:
+    :latitude: '23.34'
+    :longitude: '106.6'
+  靖西:
+    :latitude: '23.15'
+    :longitude: '106.41'
+  那坡:
+    :latitude: '23.42'
+    :longitude: '105.85'
+  西林:
+    :latitude: '24.51'
+    :longitude: '105.08'
+  田林:
+    :latitude: '24.31'
+    :longitude: '106.24'
+  隆林:
+    :latitude: '24.8'
+    :longitude: '105.34'
+新疆:
+  乌鲁木齐:
+    :latitude: '43.77'
+    :longitude: '87.68'
+  克拉玛依:
+    :latitude: '45.59'
+    :longitude: '84.77'
+  石河子:
+    :latitude: '44.27'
+    :longitude: '85.94'
+  吐鲁番:
+    :latitude: '42.91'
+    :longitude: '89.19'
+  托克逊:
+    :latitude: '42.77'
+    :longitude: '88.63'
+  鄯善:
+    :latitude: '42.82'
+    :longitude: '90.25'
+  哈密:
+    :latitude: '42.78'
+    :longitude: '93.44'
+  伊吾:
+    :latitude: '43.28'
+    :longitude: '94.65'
+  巴里坤:
+    :latitude: '43.6'
+    :longitude: '93'
+  库尔勒:
+    :latitude: '41.68'
+    :longitude: '86.06'
+  和静:
+    :latitude: '42.31'
+    :longitude: '86.35'
+  和硕:
+    :latitude: '42.23'
+    :longitude: '86.84'
+  博湖:
+    :latitude: '41.95'
+    :longitude: '86.53'
+  尉梨:
+    :latitude: '41.36'
+    :longitude: '86.24'
+  轮台:
+    :latitude: '41.77'
+    :longitude: '84.25'
+  焉耆:
+    :latitude: '42.05'
+    :longitude: '86.55'
+  和田:
+    :latitude: '37.12'
+    :longitude: '79.94'
+  民丰:
+    :latitude: '37.07'
+    :longitude: '82.63'
+  策勒:
+    :latitude: '37.04'
+    :longitude: '80.78'
+  于田:
+    :latitude: '36.86'
+    :longitude: '81.63'
+  洛浦:
+    :latitude: '37.12'
+    :longitude: '80.17'
+  皮山:
+    :latitude: '37.06'
+    :longitude: '78.29'
+  墨玉:
+    :latitude: '37.31'
+    :longitude: '79.74'
+  阿克苏:
+    :latitude: '41.15'
+    :longitude: '80.29'
+  温宿:
+    :latitude: '41.29'
+    :longitude: '80.24'
+  拜城:
+    :latitude: '41.82'
+    :longitude: '81.84'
+  库车:
+    :latitude: '41.68'
+    :longitude: '82.97'
+  新和:
+    :latitude: '41.55'
+    :longitude: '82.63'
+  沙雅:
+    :latitude: '41.25'
+    :longitude: '82.9'
+  阿瓦提:
+    :latitude: '40.64'
+    :longitude: '80.34'
+  柯平:
+    :latitude: '40.55'
+    :longitude: '79.06'
+  乌什:
+    :latitude: '41.22'
+    :longitude: '79.25'
+  咯什:
+    :latitude: '39.52'
+    :longitude: '75.94'
+  巴楚:
+    :latitude: '39.78'
+    :longitude: '78.59'
+  枷师:
+    :latitude: '39.46'
+    :longitude: '76.78'
+  乐普湖:
+    :latitude: '39.23'
+    :longitude: '76.67'
+  麦盖提:
+    :latitude: '38.95'
+    :longitude: '77.62'
+  莎车:
+    :latitude: '38.45'
+    :longitude: '77.25'
+  泽普:
+    :latitude: '38.2'
+    :longitude: '77.26'
+  叶城:
+    :latitude: '37.89'
+    :longitude: '77.42'
+  疏勒:
+    :latitude: '39.41'
+    :longitude: '76.05'
+  英吉沙:
+    :latitude: '38.91'
+    :longitude: '76.17'
+  疏附:
+    :latitude: '39.42'
+    :longitude: '75.83'
+  塔什库尔干:
+    :latitude: '37.76'
+    :longitude: '75.22'
+  阿图什:
+    :latitude: '39.73'
+    :longitude: '76.12'
+  阿合奇:
+    :latitude: '41.91'
+    :longitude: '78.42'
+  阿克陶:
+    :latitude: '39.14'
+    :longitude: '75.94'
+  乌恰:
+    :latitude: '39.7'
+    :longitude: '75.18'
+  昌吉:
+    :latitude: '44.05'
+    :longitude: '87.31'
+  阜康:
+    :latitude: '44.14'
+    :longitude: '87.94'
+  奇台:
+    :latitude: '44.02'
+    :longitude: '89.52'
+  吉木萨尔:
+    :latitude: '44'
+    :longitude: '89.14'
+  米泉:
+    :latitude: '43.97'
+    :longitude: '87.68'
+  玛纳斯:
+    :latitude: '44.28'
+    :longitude: '86.22'
+  呼图壁:
+    :latitude: '44.18'
+    :longitude: '86.92'
+  木垒:
+    :latitude: '43.8'
+    :longitude: '90.34'
+  博乐:
+    :latitude: '44.93'
+    :longitude: '82.1'
+  精河:
+    :latitude: '44.67'
+    :longitude: '82.92'
+  温泉:
+    :latitude: '44.95'
+    :longitude: '81.08'
+  伊宁:
+    :latitude: '43.91'
+    :longitude: '81.33'
+  尼勒克:
+    :latitude: '43.82'
+    :longitude: '82.53'
+  新源:
+    :latitude: '43.41'
+    :longitude: '83.27'
+  巩留:
+    :latitude: '43.35'
+    :longitude: '82.23'
+  奎屯:
+    :latitude: '44.45'
+    :longitude: '84.89'
+  特克斯:
+    :latitude: '43.23'
+    :longitude: '81.81'
+  昭苏:
+    :latitude: '43.15'
+    :longitude: '81.08'
+  霍城:
+    :latitude: '44.07'
+    :longitude: '80.87'
+  察布察尔:
+    :latitude: '43.82'
+    :longitude: '81.12'
+  塔城:
+    :latitude: '46.74'
+    :longitude: '82.96'
+  额敏:
+    :latitude: '46.52'
+    :longitude: '83.62'
+  乌苏:
+    :latitude: '44.45'
+    :longitude: '84.62'
+  托里:
+    :latitude: '45.92'
+    :longitude: '83.59'
+  裕民:
+    :latitude: '46.21'
+    :longitude: '82.94'
+  沙湾:
+    :latitude: '44.29'
+    :longitude: '85.56'
+  和布克赛尔:
+    :latitude: '46.78'
+    :longitude: '85.13'
+  阿勒泰:
+    :latitude: '47.86'
+    :longitude: '88.14'
+  青河:
+    :latitude: '46.71'
+    :longitude: '90.37'
+  富蕴:
+    :latitude: '47.05'
+    :longitude: '89.44'
+  福海:
+    :latitude: '47.15'
+    :longitude: '87.51'
+  吉木乃:
+    :latitude: '47.42'
+    :longitude: '85.84'
+  布尔津:
+    :latitude: '47.7'
+    :longitude: '86.92'
+  哈巴河:
+    :latitude: '48.05'
+    :longitude: '86.41'
+江苏:
+  南京:
+    :latitude: '32.04'
+    :longitude: '118.78'
+  江宁:
+    :latitude: '31.95'
+    :longitude: '118.83'
+  六合:
+    :latitude: '32.36'
+    :longitude: '118.83'
+  江浦:
+    :latitude: '32.07'
+    :longitude: '118.62'
+  徐州:
+    :latitude: '34.26'
+    :longitude: '117.2'
+  连云港:
+    :latitude: '34.59'
+    :longitude: '119.16'
+  南通:
+    :latitude: '32.01'
+    :longitude: '120.86'
+  苏州:
+    :latitude: '31.32'
+    :longitude: '120.62'
+  无锡:
+    :latitude: '31.59'
+    :longitude: '120.29'
+  常州:
+    :latitude: '31.79'
+    :longitude: '119.95'
+  丰县:
+    :latitude: '34.79'
+    :longitude: '116.57'
+  沛县:
+    :latitude: '34.73'
+    :longitude: '116.93'
+  赣榆:
+    :latitude: '34.83'
+    :longitude: '119.11'
+  东海:
+    :latitude: '34.54'
+    :longitude: '118.75'
+  新沂:
+    :latitude: '34.38'
+    :longitude: '118.33'
+  邳县:
+    :latitude: '34.3'
+    :longitude: '117.97'
+  睢宁:
+    :latitude: '33.89'
+    :longitude: '117.94'
+  铜山:
+    :latitude: '34.26'
+    :longitude: '117.2'
+  清江:
+    :latitude: '33.59'
+    :longitude: '119.02'
+  灌云:
+    :latitude: '34.3'
+    :longitude: '119.23'
+  灌南:
+    :latitude: '34.09'
+    :longitude: '119.36'
+  沭阳:
+    :latitude: '34.12'
+    :longitude: '118.79'
+  宿迁:
+    :latitude: '33.96'
+    :longitude: '118.3'
+  泗阳:
+    :latitude: '33.73'
+    :longitude: '118.68'
+  盱眙:
+    :latitude: '33'
+    :longitude: '118.05'
+  涟水:
+    :latitude: '33.77'
+    :longitude: '119.26'
+  淮阴:
+    :latitude: '33.62'
+    :longitude: '119.02'
+  淮安:
+    :latitude: '33.5'
+    :longitude: '119.15'
+  洪泽:
+    :latitude: '33.28'
+    :longitude: '118.85'
+  泗洪:
+    :latitude: '33.46'
+    :longitude: '118.23'
+  金湖:
+    :latitude: '33.01'
+    :longitude: '119.02'
+  盐城:
+    :latitude: '33.38'
+    :longitude: '120.13'
+  滨海:
+    :latitude: '34.01'
+    :longitude: '119.84'
+  阜宁:
+    :latitude: '33.78'
+    :longitude: '119.79'
+  射阳:
+    :latitude: '33.77'
+    :longitude: '120.26'
+  建湖:
+    :latitude: '33.46'
+    :longitude: '119.77'
+  响水:
+    :latitude: '34.2'
+    :longitude: '119.56'
+  大丰:
+    :latitude: '33.19'
+    :longitude: '120.45'
+  东台:
+    :latitude: '32.84'
+    :longitude: '120.31'
+  海安:
+    :latitude: '32.57'
+    :longitude: '120.45'
+  如皋:
+    :latitude: '32.39'
+    :longitude: '120.56'
+  如东:
+    :latitude: '32.33'
+    :longitude: '121.18'
+  启东:
+    :latitude: '31.8'
+    :longitude: '121.66'
+  海门:
+    :latitude: '31.89'
+    :longitude: '121.15'
+  扬州:
+    :latitude: '32.39'
+    :longitude: '119.42'
+  宝应:
+    :latitude: '33.23'
+    :longitude: '119.32'
+  兴化:
+    :latitude: '32.93'
+    :longitude: '119.82'
+  高邮:
+    :latitude: '32.78'
+    :longitude: '119.45'
+  泰兴:
+    :latitude: '32.16'
+    :longitude: '120.02'
+  泰县:
+    :latitude: '32.51'
+    :longitude: '120.15'
+  泰州:
+    :latitude: '32.49'
+    :longitude: '119.9'
+  靖江:
+    :latitude: '32.03'
+    :longitude: '120.26'
+  江都:
+    :latitude: '32.43'
+    :longitude: '119.55'
+  邗江:
+    :latitude: '32.39'
+    :longitude: '119.42'
+  仪征:
+    :latitude: '32.27'
+    :longitude: '119.16'
+  镇江:
+    :latitude: '32.2'
+    :longitude: '119.44'
+  丹徒:
+    :latitude: '32.2'
+    :longitude: '119.44'
+  扬中:
+    :latitude: '32.24'
+    :longitude: '119.81'
+  丹阳:
+    :latitude: '32'
+    :longitude: '119.55'
+  武进:
+    :latitude: '31.78'
+    :longitude: '119.95'
+  宜兴:
+    :latitude: '31.36'
+    :longitude: '119.82'
+  金坛:
+    :latitude: '31.74'
+    :longitude: '119.56'
+  溧阳:
+    :latitude: '31.43'
+    :longitude: '119.48'
+  句容:
+    :latitude: '31.95'
+    :longitude: '119.16'
+  溧水:
+    :latitude: '31.65'
+    :longitude: '119.02'
+  高淳:
+    :latitude: '31.32'
+    :longitude: '118.87'
+  江阴:
+    :latitude: '31.91'
+    :longitude: '120.26'
+  沙洲:
+    :latitude: '31.86'
+    :longitude: '120.55'
+  常熟:
+    :latitude: '31.64'
+    :longitude: '120.74'
+  太仓:
+    :latitude: '31.45'
+    :longitude: '121.1'
+  昆山:
+    :latitude: '31.39'
+    :longitude: '120.95'
+  吴县:
+    :latitude: '31.32'
+    :longitude: '120.62'
+  吴江:
+    :latitude: '31.16'
+    :longitude: '120.63'
+江西:
+  南昌:
+    :latitude: '28.68'
+    :longitude: '115.89'
+  新建:
+    :latitude: '28.69'
+    :longitude: '115.8'
+  景德镇:
+    :latitude: '29.3'
+    :longitude: '117.22'
+  萍乡:
+    :latitude: '27.6'
+    :longitude: '113.85'
+  九江:
+    :latitude: '29.71'
+    :longitude: '115.97'
+  彭泽:
+    :latitude: '29.9'
+    :longitude: '116.56'
+  湖口:
+    :latitude: '29.75'
+    :longitude: '116.23'
+  都昌:
+    :latitude: '29.29'
+    :longitude: '116.19'
+  星子:
+    :latitude: '29.47'
+    :longitude: '116.03'
+  永修:
+    :latitude: '29.04'
+    :longitude: '115.82'
+  德安:
+    :latitude: '29.33'
+    :longitude: '115.75'
+  瑞昌:
+    :latitude: '29.68'
+    :longitude: '115.65'
+  武宁:
+    :latitude: '29.26'
+    :longitude: '115.09'
+  修永:
+    :latitude: '29.04'
+    :longitude: '114.55'
+  上饶:
+    :latitude: '28.47'
+    :longitude: '117.97'
+  婺源:
+    :latitude: '29.25'
+    :longitude: '117.83'
+  德兴:
+    :latitude: '28.96'
+    :longitude: '117.58'
+  玉山:
+    :latitude: '28.68'
+    :longitude: '118.25'
+  广丰:
+    :latitude: '28.45'
+    :longitude: '118.2'
+  铅山:
+    :latitude: '28.32'
+    :longitude: '117.71'
+  横峰:
+    :latitude: '28.42'
+    :longitude: '117.62'
+  鹰潭:
+    :latitude: '28.23'
+    :longitude: '117.02'
+  贵溪:
+    :latitude: '28.3'
+    :longitude: '117.2'
+  余江:
+    :latitude: '28.22'
+    :longitude: '116.82'
+  万年:
+    :latitude: '28.7'
+    :longitude: '117.08'
+  乐平:
+    :latitude: '28.97'
+    :longitude: '117.12'
+  波阳:
+    :latitude: '29'
+    :longitude: '116.68'
+  于干:
+    :latitude: '28.7'
+    :longitude: '116.69'
+  弋阳:
+    :latitude: '28.42'
+    :longitude: '117.43'
+  宜春:
+    :latitude: '27.81'
+    :longitude: '114.38'
+  万载:
+    :latitude: '28.11'
+    :longitude: '114.44'
+  铜鼓:
+    :latitude: '28.53'
+    :longitude: '114.37'
+  宜丰:
+    :latitude: '28.4'
+    :longitude: '114.78'
+  上高:
+    :latitude: '28.25'
+    :longitude: '114.91'
+  安义:
+    :latitude: '28.86'
+    :longitude: '115.55'
+  奉新:
+    :latitude: '28.71'
+    :longitude: '115.38'
+  高安:
+    :latitude: '28.42'
+    :longitude: '115.38'
+  丰城:
+    :latitude: '28.19'
+    :longitude: '115.7'
+  清江:
+    :latitude: '28.07'
+    :longitude: '115.54'
+  新余:
+    :latitude: '27.81'
+    :longitude: '114.92'
+  分宜:
+    :latitude: '27.82'
+    :longitude: '114.68'
+  靖安:
+    :latitude: '28.88'
+    :longitude: '115.37'
+  抚州:
+    :latitude: '28'
+    :longitude: '116.34'
+  临川:
+    :latitude: '27.95'
+    :longitude: '116.29'
+  金溪:
+    :latitude: '27.92'
+    :longitude: '116.77'
+  资溪:
+    :latitude: '27.7'
+    :longitude: '117.06'
+  黎川:
+    :latitude: '27.3'
+    :longitude: '116.91'
+  南丰:
+    :latitude: '27.22'
+    :longitude: '116.52'
+  南城:
+    :latitude: '27.56'
+    :longitude: '116.62'
+  宜黄:
+    :latitude: '27.55'
+    :longitude: '116.2'
+  崇仁:
+    :latitude: '27.75'
+    :longitude: '116.05'
+  乐安:
+    :latitude: '27.44'
+    :longitude: '115.82'
+  东乡:
+    :latitude: '28.23'
+    :longitude: '116.61'
+  进贤:
+    :latitude: '28.37'
+    :longitude: '116.26'
+  吉安:
+    :latitude: '27.12'
+    :longitude: '114.97'
+  新干:
+    :latitude: '27.77'
+    :longitude: '115.4'
+  峡江:
+    :latitude: '27.56'
+    :longitude: '115.15'
+  吉水:
+    :latitude: '27.22'
+    :longitude: '115.14'
+  永丰:
+    :latitude: '27.33'
+    :longitude: '115.42'
+  泰和:
+    :latitude: '26.81'
+    :longitude: '114.88'
+  万安:
+    :latitude: '26.47'
+    :longitude: '114.77'
+  遂川:
+    :latitude: '26.33'
+    :longitude: '114.5'
+  宁冈:
+    :latitude: '26.71'
+    :longitude: '113.97'
+  永新:
+    :latitude: '26.96'
+    :longitude: '114.23'
+  莲花:
+    :latitude: '27.14'
+    :longitude: '113.94'
+  安福:
+    :latitude: '27.39'
+    :longitude: '114.62'
+  井冈山:
+    :latitude: '26.57'
+    :longitude: '114.17'
+  赣州:
+    :latitude: '25.85'
+    :longitude: '114.92'
+  广昌:
+    :latitude: '26.84'
+    :longitude: '116.32'
+  石城:
+    :latitude: '26.34'
+    :longitude: '116.32'
+  宁都:
+    :latitude: '26.46'
+    :longitude: '116'
+  兴国:
+    :latitude: '26.32'
+    :longitude: '115.33'
+  于都:
+    :latitude: '25.96'
+    :longitude: '115.39'
+  瑞金:
+    :latitude: '25.89'
+    :longitude: '116.02'
+  会昌:
+    :latitude: '25.58'
+    :longitude: '115.79'
+  安远:
+    :latitude: '25.15'
+    :longitude: '115.41'
+  寻乌:
+    :latitude: '24.96'
+    :longitude: '115.64'
+  定南:
+    :latitude: '24.7'
+    :longitude: '115.02'
+  龙南:
+    :latitude: '24.91'
+    :longitude: '114.79'
+  全南:
+    :latitude: '24.76'
+    :longitude: '114.53'
+  信丰:
+    :latitude: '25.39'
+    :longitude: '114.94'
+  赣县:
+    :latitude: '25.85'
+    :longitude: '114.02'
+  南康:
+    :latitude: '25.66'
+    :longitude: '114.75'
+  上犹:
+    :latitude: '25.8'
+    :longitude: '114.55'
+  崇义:
+    :latitude: '25.69'
+    :longitude: '114.31'
+  大余:
+    :latitude: '25.39'
+    :longitude: '114.36'
+河北:
+  石家庄:
+    :latitude: '38.03'
+    :longitude: '114.48'
+  唐山:
+    :latitude: '39.63'
+    :longitude: '118.02'
+  行唐:
+    :latitude: '38.42'
+    :longitude: '114.54'
+  灵寿:
+    :latitude: '38.31'
+    :longitude: '114.38'
+  束鹿:
+    :latitude: '37.94'
+    :longitude: '115.18'
+  晋县:
+    :latitude: '38.03'
+    :longitude: '115.03'
+  藁城:
+    :latitude: '38.03'
+    :longitude: '114.84'
+  高邑:
+    :latitude: '37.62'
+    :longitude: '114.58'
+  赵县:
+    :latitude: '37.76'
+    :longitude: '114.78'
+  井陉:
+    :latitude: '38.03'
+    :longitude: '114.13'
+  获鹿:
+    :latitude: '38.08'
+    :longitude: '114.03'
+  新乐:
+    :latitude: '38.33'
+    :longitude: '114.67'
+  正定:
+    :latitude: '38.13'
+    :longitude: '114.56'
+  深泽:
+    :latitude: '38.2'
+    :longitude: '115.2'
+  无极:
+    :latitude: '38.16'
+    :longitude: '114.96'
+  赞皇:
+    :latitude: '37.65'
+    :longitude: '114.35'
+  元氏:
+    :latitude: '37.74'
+    :longitude: '114.5'
+  栾城:
+    :latitude: '38.87'
+    :longitude: '114.64'
+  平山:
+    :latitude: '38.2'
+    :longitude: '114.24'
+  邯郸:
+    :latitude: '36.6'
+    :longitude: '114.47'
+  永年:
+    :latitude: '36.77'
+    :longitude: '114.5'
+  曲周:
+    :latitude: '36.78'
+    :longitude: '114.92'
+  馆陶:
+    :latitude: '36.47'
+    :longitude: '115.4'
+  魏县:
+    :latitude: '36.37'
+    :longitude: '114.94'
+  成安:
+    :latitude: '36.43'
+    :longitude: '114.68'
+  大名:
+    :latitude: '36.28'
+    :longitude: '115.14'
+  涉县:
+    :latitude: '36.57'
+    :longitude: '113.67'
+  鸡泽:
+    :latitude: '36.95'
+    :longitude: '113.85'
+  丘县:
+    :latitude: '36.84'
+    :longitude: '115.18'
+  广平:
+    :latitude: '36.49'
+    :longitude: '114.94'
+  肥乡:
+    :latitude: '36.56'
+    :longitude: '114.8'
+  临漳:
+    :latitude: '36.35'
+    :longitude: '114.62'
+  磁县:
+    :latitude: '36.37'
+    :longitude: '114.37'
+  武安:
+    :latitude: '36.7'
+    :longitude: '114.2'
+  邢台:
+    :latitude: '37.05'
+    :longitude: '114.48'
+  柏乡:
+    :latitude: '37.49'
+    :longitude: '114.68'
+  宁普:
+    :latitude: '37.62'
+    :longitude: '114.9'
+  隆尧:
+    :latitude: '37.35'
+    :longitude: '114.75'
+  临西:
+    :latitude: '36.87'
+    :longitude: '115.5'
+  南官:
+    :latitude: '37.37'
+    :longitude: '115.37'
+  巨鹿:
+    :latitude: '37.22'
+    :longitude: '115.03'
+  任县:
+    :latitude: '37.11'
+    :longitude: '114.68'
+  沙河:
+    :latitude: '36.94'
+    :longitude: '114.52'
+  临城:
+    :latitude: '37.43'
+    :longitude: '114.5'
+  内丘:
+    :latitude: '37.28'
+    :longitude: '114.5'
+  新河:
+    :latitude: '37.53'
+    :longitude: '115.22'
+  清河:
+    :latitude: '37.07'
+    :longitude: '115.67'
+  威县:
+    :latitude: '36.97'
+    :longitude: '115.08'
+  广宗:
+    :latitude: '37.06'
+    :longitude: '115.14'
+  平乡:
+    :latitude: '37.06'
+    :longitude: '115.02'
+  南和:
+    :latitude: '37'
+    :longitude: '114.71'
+  保定:
+    :latitude: '38.85'
+    :longitude: '115.48'
+  涞水:
+    :latitude: '39.39'
+    :longitude: '115.71'
+  涿县:
+    :latitude: '39.48'
+    :longitude: '115.98'
+  定兴:
+    :latitude: '39.28'
+    :longitude: '115.78'
+  容城:
+    :latitude: '39.06'
+    :longitude: '115.86'
+  安新:
+    :latitude: '38.92'
+    :longitude: '115.92'
+  蠡县:
+    :latitude: '38.49'
+    :longitude: '115.58'
+  博野:
+    :latitude: '38.46'
+    :longitude: '115.46'
+  定县:
+    :latitude: '38.52'
+    :longitude: '114.02'
+  阜平:
+    :latitude: '38.85'
+    :longitude: '114.18'
+  唐县:
+    :latitude: '38.75'
+    :longitude: '114.97'
+  涞源:
+    :latitude: '39.37'
+    :longitude: '114.67'
+  易县:
+    :latitude: '39.35'
+    :longitude: '115.49'
+  新城:
+    :latitude: '39.34'
+    :longitude: '115.84'
+  雄县:
+    :latitude: '38.98'
+    :longitude: '116.1'
+  徐水:
+    :latitude: '39.02'
+    :longitude: '115.65'
+  高阳:
+    :latitude: '38.68'
+    :longitude: '115.78'
+  安国:
+    :latitude: '38.41'
+    :longitude: '115.3'
+  清苑:
+    :latitude: '38.76'
+    :longitude: '115.47'
+  望都:
+    :latitude: '38.71'
+    :longitude: '115.14'
+  曲阳:
+    :latitude: '38.62'
+    :longitude: '114.68'
+  完县:
+    :latitude: '38.84'
+    :longitude: '115.12'
+  满城:
+    :latitude: '38.95'
+    :longitude: '115.45'
+  张家口:
+    :latitude: '40.82'
+    :longitude: '114.87'
+  康保:
+    :latitude: '41.87'
+    :longitude: '114.6'
+  赤城:
+    :latitude: '40.92'
+    :longitude: '115.82'
+  怀来:
+    :latitude: '40.4'
+    :longitude: '115.54'
+  蔚县:
+    :latitude: '39.83'
+    :longitude: '114.53'
+  宣化:
+    :latitude: '40.63'
+    :longitude: '115.03'
+  张北:
+    :latitude: '41.15'
+    :longitude: '114.7'
+  沽源:
+    :latitude: '41.68'
+    :longitude: '115.68'
+  崇礼:
+    :latitude: '40.98'
+    :longitude: '115.25'
+  涿鹿:
+    :latitude: '40.37'
+    :longitude: '115.2'
+  阳原:
+    :latitude: '40.12'
+    :longitude: '114.15'
+  怀安:
+    :latitude: '40.67'
+    :longitude: '114.38'
+  尚义:
+    :latitude: '41.05'
+    :longitude: '113.95'
+  万全:
+    :latitude: '40.84'
+    :longitude: '114.73'
+  承德:
+    :latitude: '40.97'
+    :longitude: '117.93'
+  围场:
+    :latitude: '41.95'
+    :longitude: '117.72'
+  平泉:
+    :latitude: '41.02'
+    :longitude: '118.68'
+  宽城:
+    :latitude: '40.62'
+    :longitude: '118.47'
+  兴隆:
+    :latitude: '40.42'
+    :longitude: '117.48'
+  滦平:
+    :latitude: '40.95'
+    :longitude: '117.53'
+  隆化:
+    :latitude: '41.32'
+    :longitude: '117.7'
+  青龙:
+    :latitude: '40.43'
+    :longitude: '118.93'
+  丰宁:
+    :latitude: '41.2'
+    :longitude: '116.63'
+  秦皇岛:
+    :latitude: '39.95'
+    :longitude: '119.57'
+  迁西:
+    :latitude: '40.15'
+    :longitude: '118.3'
+  迁安:
+    :latitude: '40.02'
+    :longitude: '118.69'
+  昌黎:
+    :latitude: '39.72'
+    :longitude: '119.15'
+  卢龙:
+    :latitude: '39.89'
+    :longitude: '118.85'
+  滦南:
+    :latitude: '39.49'
+    :longitude: '118.67'
+  玉田:
+    :latitude: '39.9'
+    :longitude: '117.9'
+  唐海:
+    :latitude: '39.31'
+    :longitude: '118.54'
+  遵化:
+    :latitude: '40.2'
+    :longitude: '117.97'
+  抚宁:
+    :latitude: '39.88'
+    :longitude: '119.22'
+  乐亭:
+    :latitude: '39.43'
+    :longitude: '118.9'
+  滦县:
+    :latitude: '39.74'
+    :longitude: '118.73'
+  丰南:
+    :latitude: '39.58'
+    :longitude: '118.1'
+  丰润:
+    :latitude: '39.82'
+    :longitude: '118.13'
+  廊坊:
+    :latitude: '39.53'
+    :longitude: '116.7'
+  安次:
+    :latitude: '39.52'
+    :longitude: '116.69'
+  三河:
+    :latitude: '39.97'
+    :longitude: '117.06'
+  香河:
+    :latitude: '39.76'
+    :longitude: '117'
+  霸县:
+    :latitude: '39.12'
+    :longitude: '116.38'
+  固安:
+    :latitude: '39.44'
+    :longitude: '116.29'
+  大城:
+    :latitude: '38.7'
+    :longitude: '116.63'
+  文安:
+    :latitude: '38.87'
+    :longitude: '116.45'
+  永清:
+    :latitude: '39.32'
+    :longitude: '116.48'
+  大厂:
+    :latitude: '39.98'
+    :longitude: '116.98'
+  沧州:
+    :latitude: '38.33'
+    :longitude: '116.83'
+  黄骅:
+    :latitude: '38.4'
+    :longitude: '117.33'
+  盐山:
+    :latitude: '38.07'
+    :longitude: '117.22'
+  吴桥:
+    :latitude: '37.65'
+    :longitude: '116.37'
+  东光:
+    :latitude: '37.89'
+    :longitude: '116.52'
+  肃宁:
+    :latitude: '38.43'
+    :longitude: '115.82'
+  河间:
+    :latitude: '38.45'
+    :longitude: '116.07'
+  泊头:
+    :latitude: '38.08'
+    :longitude: '116.56'
+  交河:
+    :latitude: '38.02'
+    :longitude: '116.27'
+  青县:
+    :latitude: '38.58'
+    :longitude: '116.8'
+  海兴:
+    :latitude: '38.17'
+    :longitude: '117.85'
+  南皮:
+    :latitude: '38.05'
+    :longitude: '116.7'
+  任丘:
+    :latitude: '38.72'
+    :longitude: '116.08'
+  献县:
+    :latitude: '38.2'
+    :longitude: '116.12'
+  孟村:
+    :latitude: '38.06'
+    :longitude: '117.1'
+  衡水:
+    :latitude: '37.72'
+    :longitude: '115.72'
+  饶阳:
+    :latitude: '38.24'
+    :longitude: '115.74'
+  阜城:
+    :latitude: '37.87'
+    :longitude: '116.14'
+  景县:
+    :latitude: '37.69'
+    :longitude: '116.26'
+  枣强:
+    :latitude: '37.52'
+    :longitude: '115.72'
+  深县:
+    :latitude: '38.02'
+    :longitude: '115.56'
+  安平:
+    :latitude: '38.22'
+    :longitude: '115.5'
+  武强:
+    :latitude: '38.03'
+    :longitude: '115.96'
+  武邑:
+    :latitude: '37.81'
+    :longitude: '115.9'
+  故城:
+    :latitude: '37.36'
+    :longitude: '115.96'
+  冀县:
+    :latitude: '37.59'
+    :longitude: '115.56'
+河南:
+  郑州:
+    :latitude: '34.76'
+    :longitude: '113.65'
+  荥阳:
+    :latitude: '34.79'
+    :longitude: '113.35'
+  开封:
+    :latitude: '34.79'
+    :longitude: '114.35'
+  平顶山:
+    :latitude: '33.75'
+    :longitude: '113.29'
+  洛阳:
+    :latitude: '34.7'
+    :longitude: '112.44'
+  焦作:
+    :latitude: '35.24'
+    :longitude: '113.21'
+  鹤壁:
+    :latitude: '35.9'
+    :longitude: '114.17'
+  杞县:
+    :latitude: '34.56'
+    :longitude: '114.77'
+  尉氏:
+    :latitude: '34.41'
+    :longitude: '114.17'
+  新郑:
+    :latitude: '34.4'
+    :longitude: '113.71'
+  登封:
+    :latitude: '34.46'
+    :longitude: '113.02'
+  通许:
+    :latitude: '34.48'
+    :longitude: '114.46'
+  中牟:
+    :latitude: '34.73'
+    :longitude: '114'
+  密县:
+    :latitude: '34.51'
+    :longitude: '113.35'
+  巩县:
+    :latitude: '34.76'
+    :longitude: '112.96'
+  兰考:
+    :latitude: '34.69'
+    :longitude: '114.81'
+  新乡:
+    :latitude: '35.31'
+    :longitude: '113.85'
+  汲县:
+    :latitude: '35.44'
+    :longitude: '114.05'
+  封丘:
+    :latitude: '35.03'
+    :longitude: '114.04'
+  获嘉:
+    :latitude: '35.27'
+    :longitude: '113.63'
+  温贺:
+    :latitude: '34.94'
+    :longitude: '113.06'
+  济源:
+    :latitude: '35.08'
+    :longitude: '112.57'
+  博爱:
+    :latitude: '35.16'
+    :longitude: '113.05'
+  辉县:
+    :latitude: '35.46'
+    :longitude: '113.77'
+  延津:
+    :latitude: '35.14'
+    :longitude: '114.19'
+  原阳:
+    :latitude: '35.05'
+    :longitude: '113.96'
+  武陟:
+    :latitude: '35.1'
+    :longitude: '113.38'
+  孟县:
+    :latitude: '34.92'
+    :longitude: '112.77'
+  沁阳:
+    :latitude: '35.08'
+    :longitude: '112.92'
+  修武:
+    :latitude: '35.24'
+    :longitude: '113.42'
+  安阳:
+    :latitude: '36.1'
+    :longitude: '114.35'
+  南乐:
+    :latitude: '36.08'
+    :longitude: '115.21'
+  范县:
+    :latitude: '35.9'
+    :longitude: '115.46'
+  台前:
+    :latitude: '36'
+    :longitude: '115.83'
+  滑县:
+    :latitude: '35.57'
+    :longitude: '114.52'
+  浚县:
+    :latitude: '35.67'
+    :longitude: '114.54'
+  淇县:
+    :latitude: '35.6'
+    :longitude: '114.17'
+  内黄:
+    :latitude: '35.95'
+    :longitude: '114.88'
+  清丰:
+    :latitude: '35.89'
+    :longitude: '115.1'
+  濮阳:
+    :latitude: '35.71'
+    :longitude: '114.98'
+  长垣:
+    :latitude: '35.19'
+    :longitude: '114.67'
+  汤阴:
+    :latitude: '35.92'
+    :longitude: '114.35'
+  林县:
+    :latitude: '36.06'
+    :longitude: '113.81'
+  商丘:
+    :latitude: '34.44'
+    :longitude: '115.65'
+  夏邑:
+    :latitude: '34.22'
+    :longitude: '116.13'
+  柘城:
+    :latitude: '34.08'
+    :longitude: '115.29'
+  睢县:
+    :latitude: '34.46'
+    :longitude: '115.04'
+  虞城:
+    :latitude: '34.4'
+    :longitude: '115.87'
+  永城:
+    :latitude: '33.94'
+    :longitude: '116.37'
+  宁陵:
+    :latitude: '34.44'
+    :longitude: '115.31'
+  民权:
+    :latitude: '34.65'
+    :longitude: '115.13'
+  周口:
+    :latitude: '33.63'
+    :longitude: '114.63'
+  商水:
+    :latitude: '33.54'
+    :longitude: '114.59'
+  扶沟:
+    :latitude: '34.05'
+    :longitude: '114.38'
+  鹿邑:
+    :latitude: '33.86'
+    :longitude: '115.48'
+  淮阳:
+    :latitude: '33.74'
+    :longitude: '114.88'
+  沈丘:
+    :latitude: '33.41'
+    :longitude: '115.06'
+  西华:
+    :latitude: '33.79'
+    :longitude: '114.5'
+  太康:
+    :latitude: '34.06'
+    :longitude: '114.85'
+  郸城:
+    :latitude: '33.63'
+    :longitude: '115.17'
+  项城:
+    :latitude: '33.44'
+    :longitude: '114.9'
+  许昌:
+    :latitude: '34.02'
+    :longitude: '113.81'
+  鄢县:
+    :latitude: '34.11'
+    :longitude: '114.17'
+  郾城:
+    :latitude: '33.6'
+    :longitude: '113.98'
+  襄城:
+    :latitude: '33.86'
+    :longitude: '113.46'
+  鲁山:
+    :latitude: '33.74'
+    :longitude: '112.88'
+  郏县:
+    :latitude: '33.98'
+    :longitude: '113.19'
+  漯河:
+    :latitude: '33.56'
+    :longitude: '114.02'
+  长葛:
+    :latitude: '34.22'
+    :longitude: '113.77'
+  临颖:
+    :latitude: '33.81'
+    :longitude: '113.94'
+  舞阳:
+    :latitude: '33.44'
+    :longitude: '113.58'
+  叶县:
+    :latitude: '33.62'
+    :longitude: '113.35'
+  宝丰:
+    :latitude: '33.86'
+    :longitude: '113.04'
+  禹县:
+    :latitude: '34.16'
+    :longitude: '113.47'
+  驻马店:
+    :latitude: '32.98'
+    :longitude: '114.02'
+  确山:
+    :latitude: '32.83'
+    :longitude: '114.02'
+  西平:
+    :latitude: '33.38'
+    :longitude: '114'
+  汝南:
+    :latitude: '33'
+    :longitude: '114.35'
+  新蔡:
+    :latitude: '32.75'
+    :longitude: '114.97'
+  泌阳:
+    :latitude: '32.72'
+    :longitude: '113.31'
+  遂平:
+    :latitude: '33.15'
+    :longitude: '113.98'
+  上蔡:
+    :latitude: '33.25'
+    :longitude: '114.26'
+  平舆:
+    :latitude: '32.97'
+    :longitude: '114.62'
+  正阳:
+    :latitude: '32.62'
+    :longitude: '114.38'
+  信阳:
+    :latitude: '32.13'
+    :longitude: '114.08'
+  息县:
+    :latitude: '32.35'
+    :longitude: '114.72'
+  固始:
+    :latitude: '32.17'
+    :longitude: '115.68'
+  潢川:
+    :latitude: '32.13'
+    :longitude: '115.04'
+  新县:
+    :latitude: '31.62'
+    :longitude: '114.83'
+  罗山:
+    :latitude: '32.21'
+    :longitude: '114.53'
+  淮滨:
+    :latitude: '32.44'
+    :longitude: '115.41'
+  商城:
+    :latitude: '31.81'
+    :longitude: '115.42'
+  光山:
+    :latitude: '32.02'
+    :longitude: '114.91'
+  南阳:
+    :latitude: '33.01'
+    :longitude: '112.53'
+  方城:
+    :latitude: '33.25'
+    :longitude: '112.98'
+  唐河:
+    :latitude: '32.7'
+    :longitude: '112.83'
+  新野:
+    :latitude: '32.51'
+    :longitude: '112.36'
+  邓县:
+    :latitude: '32.68'
+    :longitude: '112.08'
+  淅川:
+    :latitude: '33.14'
+    :longitude: '111.47'
+  南召:
+    :latitude: '33.49'
+    :longitude: '112.4'
+  社旗:
+    :latitude: '33.05'
+    :longitude: '112.92'
+  桐柏:
+    :latitude: '32.37'
+    :longitude: '113.4'
+  镇平:
+    :latitude: '33.03'
+    :longitude: '112.23'
+  内乡:
+    :latitude: '33.05'
+    :longitude: '111.83'
+  西峡:
+    :latitude: '33.31'
+    :longitude: '111.5'
+  三门峡:
+    :latitude: '34.76'
+    :longitude: '111.19'
+  孟津:
+    :latitude: '34.84'
+    :longitude: '112.42'
+  临汝:
+    :latitude: '34.17'
+    :longitude: '112.83'
+  汝阳:
+    :latitude: '34.16'
+    :longitude: '112.46'
+  嵩县:
+    :latitude: '34.14'
+    :longitude: '112.07'
+  栾川:
+    :latitude: '33.81'
+    :longitude: '111.6'
+  灵宝:
+    :latitude: '34.52'
+    :longitude: '110.85'
+  渑池:
+    :latitude: '34.76'
+    :longitude: '111.75'
+  义马:
+    :latitude: '34.73'
+    :longitude: '111.92'
+  偃师:
+    :latitude: '34.73'
+    :longitude: '112.77'
+  伊川:
+    :latitude: '34.43'
+    :longitude: '112.42'
+  宜阳:
+    :latitude: '34.51'
+    :longitude: '112.15'
+  洛宁:
+    :latitude: '34.39'
+    :longitude: '111.65'
+  卢氏:
+    :latitude: '34.06'
+    :longitude: '111.03'
+  陕县:
+    :latitude: '34.76'
+    :longitude: '111.19'
+  新安:
+    :latitude: '34.75'
+    :longitude: '112.14'
+浙江:
+  杭州:
+    :latitude: '30.26'
+    :longitude: '120.19'
+  余杭:
+    :latitude: '30.43'
+    :longitude: '120.3'
+  富阳:
+    :latitude: '30.07'
+    :longitude: '119.95'
+  建德:
+    :latitude: '29.49'
+    :longitude: '119.27'
+  临安:
+    :latitude: '30.23'
+    :longitude: '119.72'
+  萧山:
+    :latitude: '30.16'
+    :longitude: '120.25'
+  桐庐:
+    :latitude: '29.8'
+    :longitude: '119.64'
+  淳安:
+    :latitude: '29.61'
+    :longitude: '119.05'
+  宁波:
+    :latitude: '29.86'
+    :longitude: '121.56'
+  镇海:
+    :latitude: '29.96'
+    :longitude: '121.72'
+  温州:
+    :latitude: '28.01'
+    :longitude: '120.65'
+  瓯海:
+    :latitude: '28.01'
+    :longitude: '120.65'
+  永喜:
+    :latitude: '28.16'
+    :longitude: '120.68'
+  洞头:
+    :latitude: '27.84'
+    :longitude: '121.12'
+  平阳:
+    :latitude: '27.68'
+    :longitude: '120.55'
+  泰顺:
+    :latitude: '27.57'
+    :longitude: '119.7'
+  乐清:
+    :latitude: '28.14'
+    :longitude: '120.94'
+  瑞安:
+    :latitude: '27.8'
+    :longitude: '120.62'
+  文成:
+    :latitude: '27.08'
+    :longitude: '120.08'
+  苍南:
+    :latitude: '27.53'
+    :longitude: '120.36'
+  湖州:
+    :latitude: '30.86'
+    :longitude: '120.1'
+  平湖:
+    :latitude: '30.7'
+    :longitude: '121.02'
+  桐乡:
+    :latitude: '30.64'
+    :longitude: '120.54'
+  安吉:
+    :latitude: '30.68'
+    :longitude: '119.68'
+  嘉善:
+    :latitude: '30.84'
+    :longitude: '120.92'
+  嘉兴:
+    :latitude: '30.77'
+    :longitude: '120.76'
+  海盐:
+    :latitude: '30.53'
+    :longitude: '120.92'
+  海宁:
+    :latitude: '30.53'
+    :longitude: '120.69'
+  德清:
+    :latitude: '30.54'
+    :longitude: '120.08'
+  长兴:
+    :latitude: '30.01'
+    :longitude: '119.91'
+  定海:
+    :latitude: '30.03'
+    :longitude: '122.11'
+  岱山:
+    :latitude: '30.26'
+    :longitude: '122.2'
+  嵊四:
+    :latitude: '30.72'
+    :longitude: '122.45'
+  普陀:
+    :latitude: '29.97'
+    :longitude: '122.3'
+  鄞县:
+    :latitude: '29.86'
+    :longitude: '121.56'
+  象山:
+    :latitude: '29.48'
+    :longitude: '121.8'
+  奉化:
+    :latitude: '29.66'
+    :longitude: '121.41'
+  慈溪:
+    :latitude: '30.18'
+    :longitude: '121.23'
+  宁海:
+    :latitude: '29.3'
+    :longitude: '121.42'
+  余姚:
+    :latitude: '30.04'
+    :longitude: '121.16'
+  绍兴:
+    :latitude: '30.01'
+    :longitude: '120.58'
+  新昌:
+    :latitude: '29.49'
+    :longitude: '120.89'
+  诸暨:
+    :latitude: '29.71'
+    :longitude: '120.23'
+  上虞:
+    :latitude: '30.03'
+    :longitude: '120.87'
+  嵊县:
+    :latitude: '29.6'
+    :longitude: '120.81'
+  椒江:
+    :latitude: '28.67'
+    :longitude: '121.44'
+  临海:
+    :latitude: '28.8'
+    :longitude: '121.13'
+  三门:
+    :latitude: '29.11'
+    :longitude: '121.38'
+  温岭:
+    :latitude: '28.36'
+    :longitude: '121.36'
+  仙居:
+    :latitude: '28.85'
+    :longitude: '120.73'
+  天台:
+    :latitude: '29.15'
+    :longitude: '121.03'
+  黄岩:
+    :latitude: '28.64'
+    :longitude: '121.27'
+  玉环:
+    :latitude: '28.14'
+    :longitude: '121.23'
+  丽水:
+    :latitude: '28.45'
+    :longitude: '119.92'
+  青田:
+    :latitude: '28.45'
+    :longitude: '120.28'
+  庆无:
+    :latitude: '27.61'
+    :longitude: '119.06'
+  遂昌:
+    :latitude: '28.59'
+    :longitude: '119.25'
+  缙云:
+    :latitude: '28.66'
+    :longitude: '120.6'
+  云和:
+    :latitude: '28.12'
+    :longitude: '119.56'
+  龙泉:
+    :latitude: '28.08'
+    :longitude: '119.13'
+  松阳:
+    :latitude: '28.46'
+    :longitude: '119.48'
+  金华:
+    :latitude: '29.12'
+    :longitude: '119.64'
+  浦江:
+    :latitude: '29.46'
+    :longitude: '119.88'
+  东阳:
+    :latitude: '29.27'
+    :longitude: '120.23'
+  武义:
+    :latitude: '28.9'
+    :longitude: '119.81'
+  江山:
+    :latitude: '28.74'
+    :longitude: '118.61'
+  开化:
+    :latitude: '29.15'
+    :longitude: '118.39'
+  衢州:
+    :latitude: '28.97'
+    :longitude: '118.88'
+  兰溪:
+    :latitude: '29.19'
+    :longitude: '119.48'
+  义乌:
+    :latitude: '29.32'
+    :longitude: '120.06'
+  永康:
+    :latitude: '28.92'
+    :longitude: '120.02'
+  常山:
+    :latitude: '28.9'
+    :longitude: '118.5'
+海南:
+  海口:
+    :latitude: '20.02'
+    :longitude: '110.35'
+  琼山:
+    :latitude: '19.98'
+    :longitude: '110.33'
+  文昌:
+    :latitude: '19.61'
+    :longitude: '110.72'
+  定安:
+    :latitude: '19.68'
+    :longitude: '110.31'
+  琼海:
+    :latitude: '19.25'
+    :longitude: '110.46'
+  万宁:
+    :latitude: '18.8'
+    :longitude: '110.39'
+  屯昌:
+    :latitude: '19.36'
+    :longitude: '110.1'
+  澄迈:
+    :latitude: '19.75'
+    :longitude: '110'
+  儋县:
+    :latitude: '19.52'
+    :longitude: '109.57'
+  临高:
+    :latitude: '19.91'
+    :longitude: '109.69'
+  保亭:
+    :latitude: '18.64'
+    :longitude: '109.7'
+  白沙:
+    :latitude: '19.23'
+    :longitude: '109.44'
+  琼中:
+    :latitude: '19.05'
+    :longitude: '109.83'
+  陵水:
+    :latitude: '18.48'
+    :longitude: '110.02'
+  崖县:
+    :latitude: '18.25'
+    :longitude: '109.5'
+  乐东:
+    :latitude: '18.73'
+    :longitude: '109.17'
+  东方:
+    :latitude: '19.09'
+    :longitude: '108.64'
+  昌江:
+    :latitude: '19.25'
+    :longitude: '109.03'
+香港:
+  台香港:
+    :latitude: '22.2'
+    :longitude: '114.1'
+澳门:
+  台澳门:
+    :latitude: '22.13'
+    :longitude: '113.33'
+湖北:
+  武汉:
+    :latitude: '30.52'
+    :longitude: '114.31'
+  武昌:
+    :latitude: '30.35'
+    :longitude: '114.33'
+  汉阳:
+    :latitude: '30.57'
+    :longitude: '114.02'
+  黄石:
+    :latitude: '30.2'
+    :longitude: '115.09'
+  十堰:
+    :latitude: '32.65'
+    :longitude: '110.79'
+  沙市:
+    :latitude: '30.32'
+    :longitude: '112.24'
+  宜昌:
+    :latitude: '30.7'
+    :longitude: '111.3'
+  襄樊:
+    :latitude: '30.02'
+    :longitude: '112.14'
+  孝感:
+    :latitude: '31.92'
+    :longitude: '113.91'
+  黄陂:
+    :latitude: '30.88'
+    :longitude: '114.36'
+  汉川:
+    :latitude: '30.63'
+    :longitude: '113.59'
+  云梦:
+    :latitude: '31.02'
+    :longitude: '113.73'
+  应山:
+    :latitude: '31.62'
+    :longitude: '113.81'
+  大悟:
+    :latitude: '31.56'
+    :longitude: '114.09'
+  应城:
+    :latitude: '30.94'
+    :longitude: '113.6'
+  安陆:
+    :latitude: '31.25'
+    :longitude: '113.69'
+  鄂城:
+    :latitude: '30.38'
+    :longitude: '114.87'
+  黄冈:
+    :latitude: '30.44'
+    :longitude: '114.87'
+  新洲:
+    :latitude: '31.84'
+    :longitude: '114.8'
+  红安:
+    :latitude: '31.29'
+    :longitude: '114.61'
+  麻城:
+    :latitude: '31.17'
+    :longitude: '115'
+  罗川:
+    :latitude: '30.79'
+    :longitude: '115.37'
+  浠水:
+    :latitude: '30.46'
+    :longitude: '115.22'
+  蕲春:
+    :latitude: '30.24'
+    :longitude: '115.3'
+  黄梅:
+    :latitude: '30.09'
+    :longitude: '115.93'
+  广济:
+    :latitude: '29.85'
+    :longitude: '115.56'
+  英山:
+    :latitude: '30.75'
+    :longitude: '115.57'
+  咸宁:
+    :latitude: '29.87'
+    :longitude: '114.28'
+  阳新:
+    :latitude: '29.83'
+    :longitude: '115.22'
+  通山:
+    :latitude: '29.6'
+    :longitude: '114.52'
+  通城:
+    :latitude: '29.23'
+    :longitude: '113.8'
+  嘉鱼:
+    :latitude: '29.97'
+    :longitude: '113.91'
+  崇阳:
+    :latitude: '29.54'
+    :longitude: '114.04'
+  蒲圻:
+    :latitude: '29.71'
+    :longitude: '113.85'
+  荆门:
+    :latitude: '31.02'
+    :longitude: '112.19'
+  江陵:
+    :latitude: '30.35'
+    :longitude: '112.18'
+  钟祥:
+    :latitude: '31.17'
+    :longitude: '112.58'
+  京山:
+    :latitude: '31.03'
+    :longitude: '113.11'
+  监利:
+    :latitude: '29.83'
+    :longitude: '112.9'
+  石首:
+    :latitude: '29.73'
+    :longitude: '112.41'
+湖南:
+  长沙:
+    :latitude: '28.21'
+    :longitude: '113'
+  望城:
+    :latitude: '28.37'
+    :longitude: '112.8'
+  株洲:
+    :latitude: '27.83'
+    :longitude: '113.16'
+  湘潭:
+    :latitude: '27.87'
+    :longitude: '112.91'
+  衡阳:
+    :latitude: '26.89'
+    :longitude: '112.61'
+  邵阳:
+    :latitude: '27.22'
+    :longitude: '111.5'
+  岳阳:
+    :latitude: '29.37'
+    :longitude: '113.09'
+  临湘:
+    :latitude: '29.48'
+    :longitude: '113.42'
+  平江:
+    :latitude: '29.71'
+    :longitude: '113.56'
+  泪罗:
+    :latitude: '28.8'
+    :longitude: '113.05'
+  湘阴:
+    :latitude: '28.68'
+    :longitude: '112.87'
+  华容:
+    :latitude: '29.52'
+    :longitude: '112.55'
+  浏阳:
+    :latitude: '28.16'
+    :longitude: '113.63'
+  醴陵:
+    :latitude: '27.67'
+    :longitude: '113.5'
+  攸县:
+    :latitude: '27.01'
+    :longitude: '113.32'
+  茶陵:
+    :latitude: '26.79'
+    :longitude: '113.54'
+  酃县:
+    :latitude: '26.49'
+    :longitude: '113.77'
+  湘乡:
+    :latitude: '27.75'
+    :longitude: '112.5'
+  郴州:
+    :latitude: '25.79'
+    :longitude: '113'
+  郴县:
+    :latitude: '25.79'
+    :longitude: '113'
+  安仁:
+    :latitude: '26.71'
+    :longitude: '113.27'
+  永兴:
+    :latitude: '26.13'
+    :longitude: '113.11'
+  资兴:
+    :latitude: '25.95'
+    :longitude: '113.39'
+  桂东:
+    :latitude: '25.08'
+    :longitude: '113.91'
+  汝城:
+    :latitude: '25.54'
+    :longitude: '113.68'
+  宜章:
+    :latitude: '25.41'
+    :longitude: '113.96'
+  临武:
+    :latitude: '25.27'
+    :longitude: '112.55'
+  嘉禾:
+    :latitude: '25.56'
+    :longitude: '112.35'
+  桂阳:
+    :latitude: '25.73'
+    :longitude: '112.72'
+  来阳:
+    :latitude: '26.41'
+    :longitude: '112.84'
+  衡南:
+    :latitude: '26.89'
+    :longitude: '112.61'
+  衡山:
+    :latitude: '27.25'
+    :longitude: '112.86'
+  衡东:
+    :latitude: '27.1'
+    :longitude: '112.95'
+  常宁:
+    :latitude: '26.38'
+    :longitude: '112.39'
+  祁阳:
+    :latitude: '26.59'
+    :longitude: '111.85'
+  祁东:
+    :latitude: '26.8'
+    :longitude: '112.14'
+  永州:
+    :latitude: '26.22'
+    :longitude: '111.63'
+  零陵:
+    :latitude: '26.22'
+    :longitude: '111.63'
+  新田:
+    :latitude: '25.91'
+    :longitude: '112.21'
+  宁远:
+    :latitude: '25.6'
+    :longitude: '111.95'
+  蓝山:
+    :latitude: '25.37'
+    :longitude: '112.16'
+  双牌:
+    :latitude: '25.96'
+    :longitude: '111.64'
+  江永:
+    :latitude: '25.41'
+    :longitude: '111.33'
+  道县:
+    :latitude: '25.52'
+    :longitude: '111.57'
+  东安:
+    :latitude: '26.41'
+    :longitude: '111.28'
+  江华:
+    :latitude: '24.97'
+    :longitude: '111.79'
+  新宁:
+    :latitude: '26.44'
+    :longitude: '110.84'
+  武冈:
+    :latitude: '26.73'
+    :longitude: '110.61'
+  隆回:
+    :latitude: '27.13'
+    :longitude: '111.04'
+  绥宁:
+    :latitude: '25.59'
+    :longitude: '110.14'
+  洞口:
+    :latitude: '27.06'
+    :longitude: '110.57'
+  城步:
+    :latitude: '26.37'
+    :longitude: '110.3'
+  娄底:
+    :latitude: '27.71'
+    :longitude: '111.96'
+  涟源:
+    :latitude: '27.68'
+    :longitude: '111.66'
+  新邵:
+    :latitude: '27.33'
+    :longitude: '111.46'
+  双峰:
+    :latitude: '27.44'
+    :longitude: '112.18'
+  冷水江:
+    :latitude: '27.68'
+    :longitude: '111.41'
+  邵东:
+    :latitude: '27.25'
+    :longitude: '111.73'
+  新化:
+    :latitude: '27.73'
+    :longitude: '111.29'
+  怀化:
+    :latitude: '27.52'
+    :longitude: '109.95'
+  黔阳:
+    :latitude: '27.33'
+    :longitude: '110.14'
+  辰溪:
+    :latitude: '28.02'
+    :longitude: '110.18'
+  沅陵:
+    :latitude: '28.46'
+    :longitude: '110.39'
+  溆浦:
+    :latitude: '27.92'
+    :longitude: '110.57'
+  会同:
+    :latitude: '26.86'
+    :longitude: '109.71'
+  靖县:
+    :latitude: '26.57'
+    :longitude: '109.68'
+  洪江:
+    :latitude: '27.1'
+    :longitude: '109.96'
+  芷江:
+    :latitude: '27.44'
+    :longitude: '109.78'
+  麻阳:
+    :latitude: '27.87'
+    :longitude: '109.79'
+  通道:
+    :latitude: '26.16'
+    :longitude: '109.77'
+  新晃:
+    :latitude: '27.37'
+    :longitude: '109.16'
+  吉首:
+    :latitude: '28.3'
+    :longitude: '109.71'
+  永顺:
+    :latitude: '29'
+    :longitude: '109.84'
+  桑植:
+    :latitude: '29.38'
+    :longitude: '110.16'
+  大庸:
+    :latitude: '29.13'
+    :longitude: '110.48'
+  古丈:
+    :latitude: '28.62'
+    :longitude: '109.91'
+  泸溪:
+    :latitude: '28.29'
+    :longitude: '110.73'
+  凤凰:
+    :latitude: '27.92'
+    :longitude: '109.43'
+  花垣:
+    :latitude: '28.59'
+    :longitude: '109.46'
+  保靖:
+    :latitude: '28.7'
+    :longitude: '109.64'
+  龙山:
+    :latitude: '29.64'
+    :longitude: '109.42'
+  常德:
+    :latitude: '29.05'
+    :longitude: '111.69'
+  临澧:
+    :latitude: '29.44'
+    :longitude: '111.64'
+  澧县:
+    :latitude: '29.65'
+    :longitude: '111.75'
+  安乡:
+    :latitude: '29.41'
+    :longitude: '112.16'
+  津市:
+    :latitude: '29.64'
+    :longitude: '111.87'
+  汉寿:
+    :latitude: '28.9'
+    :longitude: '111.97'
+  桃源:
+    :latitude: '28.9'
+    :longitude: '111.47'
+  慈利:
+    :latitude: '29.41'
+    :longitude: '111.09'
+  石门:
+    :latitude: '29.59'
+    :longitude: '111.35'
+  益阳:
+    :latitude: '28.6'
+    :longitude: '112.33'
+  南县:
+    :latitude: '29.37'
+    :longitude: '112.39'
+  沅江:
+    :latitude: '28.83'
+    :longitude: '112.36'
+  宁乡:
+    :latitude: '28.27'
+    :longitude: '112.55'
+  安化:
+    :latitude: '28.38'
+    :longitude: '111.2'
+  桃江:
+    :latitude: '28.51'
+    :longitude: '112.11'
+甘肃:
+  兰州:
+    :latitude: '36.03'
+    :longitude: '103.73'
+  永登:
+    :latitude: '36.73'
+    :longitude: '103.25'
+  榆中:
+    :latitude: '35.87'
+    :longitude: '104.09'
+  永昌:
+    :latitude: '38.23'
+    :longitude: '101.94'
+  皋兰:
+    :latitude: '36.32'
+    :longitude: '103.97'
+  定西:
+    :latitude: '35.57'
+    :longitude: '104.57'
+  会宁:
+    :latitude: '35.72'
+    :longitude: '105.08'
+  陇西:
+    :latitude: '34.98'
+    :longitude: '104.61'
+  临洮:
+    :latitude: '35.39'
+    :longitude: '103.88'
+  靖远:
+    :latitude: '36.54'
+    :longitude: '104.71'
+  通渭:
+    :latitude: '35.24'
+    :longitude: '105.27'
+  渭源:
+    :latitude: '35.17'
+    :longitude: '104.19'
+  平凉:
+    :latitude: '35.51'
+    :longitude: '106.68'
+  灵台:
+    :latitude: '35.1'
+    :longitude: '107.61'
+  华亭:
+    :latitude: '35.21'
+    :longitude: '106.65'
+  静宁:
+    :latitude: '35.51'
+    :longitude: '105.73'
+  泾川:
+    :latitude: '35.31'
+    :longitude: '107.38'
+  崇信:
+    :latitude: '35.27'
+    :longitude: '107.05'
+  庄浪:
+    :latitude: '35.2'
+    :longitude: '106.06'
+  庆阳:
+    :latitude: '36.03'
+    :longitude: '107.88'
+  华池:
+    :latitude: '36.44'
+    :longitude: '108'
+  庄宁:
+    :latitude: '35.5'
+    :longitude: '108.43'
+  镇源:
+    :latitude: '35.7'
+    :longitude: '107.22'
+  环县:
+    :latitude: '36.57'
+    :longitude: '107.33'
+  合水:
+    :latitude: '35.81'
+    :longitude: '108.02'
+  宁县:
+    :latitude: '35.17'
+    :longitude: '107.94'
+  天水:
+    :latitude: '34.6'
+    :longitude: '105.69'
+  徽县:
+    :latitude: '33.78'
+    :longitude: '106.11'
+  礼县:
+    :latitude: '34.22'
+    :longitude: '105.15'
+  武山:
+    :latitude: '34.69'
+    :longitude: '104.88'
+  秦安:
+    :latitude: '34.89'
+    :longitude: '105.69'
+  清水:
+    :latitude: '34.73'
+    :longitude: '106.12'
+  两当:
+    :latitude: '33.9'
+    :longitude: '106.28'
+  西和:
+    :latitude: '34.02'
+    :longitude: '105.28'
+  甘谷:
+    :latitude: '34.7'
+    :longitude: '105.35'
+  漳县:
+    :latitude: '34.87'
+    :longitude: '104.48'
+  张家川:
+    :latitude: '35'
+    :longitude: '106.23'
+  武都:
+    :latitude: '33.43'
+    :longitude: '104.94'
+  宕昌:
+    :latitude: '34.06'
+    :longitude: '104.38'
+  康县:
+    :latitude: '33.33'
+    :longitude: '105.58'
+  成县:
+    :latitude: '33.75'
+    :longitude: '105.7'
+  文县:
+    :latitude: '32.95'
+    :longitude: '104.7'
+  临潭:
+    :latitude: '34.69'
+    :longitude: '103.35'
+  舟曲:
+    :latitude: '33.81'
+    :longitude: '104.38'
+  玛曲:
+    :latitude: '33.97'
+    :longitude: '102.04'
+  下河:
+    :latitude: '35.21'
+    :longitude: '102.46'
+  卓尼:
+    :latitude: '34.61'
+    :longitude: '103.54'
+  迭部:
+    :latitude: '34.08'
+    :longitude: '103.23'
+  碌曲:
+    :latitude: '34.6'
+    :longitude: '102.5'
+  临夏:
+    :latitude: '35.62'
+    :longitude: '103.22'
+  永靖:
+    :latitude: '35.97'
+    :longitude: '103.34'
+  和政:
+    :latitude: '35.43'
+    :longitude: '103.31'
+  康乐:
+    :latitude: '35.39'
+    :longitude: '103.68'
+  广河:
+    :latitude: '35.46'
+    :longitude: '103.54'
+  东乡:
+    :latitude: '35.68'
+    :longitude: '103.39'
+  岷县:
+    :latitude: '34.41'
+    :longitude: '104.04'
+  积石山:
+    :latitude: '35.74'
+    :longitude: '102.85'
+  武威:
+    :latitude: '37.94'
+    :longitude: '102.61'
+  民勤:
+    :latitude: '38.62'
+    :longitude: '103.08'
+  古浪:
+    :latitude: '37.43'
+    :longitude: '102.86'
+  景泰:
+    :latitude: '37.14'
+    :longitude: '104.05'
+  天祝:
+    :latitude: '37.24'
+    :longitude: '102.84'
+  张掖:
+    :latitude: '38.93'
+    :longitude: '100.46'
+  民乐:
+    :latitude: '38.43'
+    :longitude: '100.85'
+  临泽:
+    :latitude: '39.14'
+    :longitude: '100.17'
+  山丹:
+    :latitude: '38.79'
+    :longitude: '101.19'
+  高台:
+    :latitude: '39.14'
+    :longitude: '99.84'
+  肃南:
+    :latitude: '38.86'
+    :longitude: '99.57'
+  玉门:
+    :latitude: '39.81'
+    :longitude: '97.58'
+  酒泉:
+    :latitude: '39.71'
+    :longitude: '98.5'
+  敦煌:
+    :latitude: '40.13'
+    :longitude: '94.71'
+  金塔:
+    :latitude: '39.97'
+    :longitude: '98.92'
+  安西:
+    :latitude: '40.51'
+    :longitude: '95.77'
+  阿克塞:
+    :latitude: '38.46'
+    :longitude: '94.25'
+  肃北:
+    :latitude: '39.49'
+    :longitude: '94.89'
+福建:
+  福州:
+    :latitude: '26.08'
+    :longitude: '119.3'
+  闽侯:
+    :latitude: '26.16'
+    :longitude: '119.14'
+  厦门:
+    :latitude: '24.46'
+    :longitude: '118.1'
+  同安:
+    :latitude: '24.74'
+    :longitude: '118.15'
+  南平:
+    :latitude: '26.65'
+    :longitude: '118.16'
+  建瓯:
+    :latitude: '27.05'
+    :longitude: '118.32'
+  浦城:
+    :latitude: '27.92'
+    :longitude: '118.55'
+  邵武:
+    :latitude: '27.34'
+    :longitude: '117.48'
+  顺昌:
+    :latitude: '26.8'
+    :longitude: '117.8'
+  崇安:
+    :latitude: '27.76'
+    :longitude: '118.02'
+  光泽:
+    :latitude: '27.54'
+    :longitude: '117.34'
+  松溪:
+    :latitude: '27.53'
+    :longitude: '118.77'
+  政和:
+    :latitude: '27.38'
+    :longitude: '118.85'
+  宁德:
+    :latitude: '26.65'
+    :longitude: '119.52'
+  福安:
+    :latitude: '27.09'
+    :longitude: '119.65'
+  连江:
+    :latitude: '26.2'
+    :longitude: '119.53'
+  福鼎:
+    :latitude: '27.34'
+    :longitude: '120.2'
+  霞浦:
+    :latitude: '26.89'
+    :longitude: '120'
+  吉田:
+    :latitude: '26.59'
+    :longitude: '118.74'
+  罗源:
+    :latitude: '26.49'
+    :longitude: '119.55'
+  寿宁:
+    :latitude: '27.47'
+    :longitude: '119.5'
+  周宁:
+    :latitude: '27.12'
+    :longitude: '119.36'
+  屏南:
+    :latitude: '26.92'
+    :longitude: '118.98'
+  柘荣:
+    :latitude: '27.25'
+    :longitude: '119.89'
+  莆田:
+    :latitude: '25.44'
+    :longitude: '119'
+  仙游:
+    :latitude: '25.37'
+    :longitude: '118.7'
+  福清:
+    :latitude: '25.73'
+    :longitude: '119.39'
+  长乐:
+    :latitude: '25.96'
+    :longitude: '119.52'
+  永泰:
+    :latitude: '25.88'
+    :longitude: '118.95'
+  平潭:
+    :latitude: '25.51'
+    :longitude: '119.78'
+  闽清:
+    :latitude: '26.21'
+    :longitude: '118.86'
+  泉州:
+    :latitude: '24.93'
+    :longitude: '118.58'
+  晋江:
+    :latitude: '24.82'
+    :longitude: '118.57'
+  南安:
+    :latitude: '24.96'
+    :longitude: '118.39'
+  惠安:
+    :latitude: '25.04'
+    :longitude: '118.78'
+  安溪:
+    :latitude: '25.07'
+    :longitude: '118.18'
+  永春:
+    :latitude: '25.34'
+    :longitude: '118.3'
+  德化:
+    :latitude: '25.5'
+    :longitude: '118.24'
+  金门:
+    :latitude: '24.43'
+    :longitude: '118.34'
+  漳州:
+    :latitude: '24.52'
+    :longitude: '117.35'
+  龙海:
+    :latitude: '24.44'
+    :longitude: '117.79'
+  漳浦:
+    :latitude: '24.12'
+    :longitude: '117.61'
+  诏安:
+    :latitude: '23.73'
+    :longitude: '117.16'
+  平和:
+    :latitude: '24.38'
+    :longitude: '117.3'
+  云霄:
+    :latitude: '23.99'
+    :longitude: '117.34'
+  南靖:
+    :latitude: '24.51'
+    :longitude: '117.35'
+  长泰:
+    :latitude: '24.62'
+    :longitude: '117.75'
+  东山:
+    :latitude: '23.72'
+    :longitude: '117.4'
+  华安:
+    :latitude: '25'
+    :longitude: '117.53'
+  龙岩:
+    :latitude: '25.12'
+    :longitude: '117.01'
+  上杭:
+    :latitude: '25.43'
+    :longitude: '116.41'
+  永定:
+    :latitude: '24.76'
+    :longitude: '116.81'
+  长汀:
+    :latitude: '25.85'
+    :longitude: '116.37'
+  武平:
+    :latitude: '25.11'
+    :longitude: '116.1'
+  连城:
+    :latitude: '25.72'
+    :longitude: '116.75'
+  漳平:
+    :latitude: '25.3'
+    :longitude: '117.4'
+  三明:
+    :latitude: '26.23'
+    :longitude: '117.61'
+  龙溪:
+    :latitude: '26.18'
+    :longitude: '118.17'
+  宁化:
+    :latitude: '26.26'
+    :longitude: '116.64'
+  大田:
+    :latitude: '25.69'
+    :longitude: '117.83'
+  永安:
+    :latitude: '25.97'
+    :longitude: '117.37'
+  沙县:
+    :latitude: '26.41'
+    :longitude: '117.77'
+  将乐:
+    :latitude: '26.73'
+    :longitude: '117.45'
+  清流:
+    :latitude: '26.12'
+    :longitude: '116.81'
+  建宁:
+    :latitude: '26.85'
+    :longitude: '116.82'
+  泰宁:
+    :latitude: '26.92'
+    :longitude: '117.15'
+  明溪:
+    :latitude: '26.36'
+    :longitude: '117.18'
+西藏:
+  自治区拉萨:
+    :latitude: '29.97'
+    :longitude: '91.11'
+  自治区林周:
+    :latitude: '30.2'
+    :longitude: '91.24'
+  自治区当雄:
+    :latitude: '30.51'
+    :longitude: '91.05'
+  自治区墨竹工卡:
+    :latitude: '29.77'
+    :longitude: '91.77'
+  自治区尼木:
+    :latitude: '29.44'
+    :longitude: '90.14'
+  自治区米林:
+    :latitude: '29.18'
+    :longitude: '94.13'
+  自治区墨脱:
+    :latitude: '29.22'
+    :longitude: '95.26'
+  自治区达孜:
+    :latitude: '29.63'
+    :longitude: '91.39'
+  自治区曲水:
+    :latitude: '29.39'
+    :longitude: '90.7'
+  自治区堆龙德庆:
+    :latitude: '29.67'
+    :longitude: '90.96'
+  自治区林芝:
+    :latitude: '29.59'
+    :longitude: '94.25'
+  自治区工布江达:
+    :latitude: '29.92'
+    :longitude: '93.25'
+  自治区那曲:
+    :latitude: '31.47'
+    :longitude: '92.1'
+  自治区巴青:
+    :latitude: '31.96'
+    :longitude: '94.1'
+  自治区比如:
+    :latitude: '31.53'
+    :longitude: '93.68'
+  自治区班戈:
+    :latitude: '31.35'
+    :longitude: '90.05'
+  自治区嘉黎:
+    :latitude: '30.63'
+    :longitude: '93.46'
+  自治区聂荣:
+    :latitude: '31.08'
+    :longitude: '92.3'
+  自治区索县:
+    :latitude: '31.92'
+    :longitude: '93.71'
+  自治区安多:
+    :latitude: '32.29'
+    :longitude: '91.68'
+  自治区申扎:
+    :latitude: '30.94'
+    :longitude: '88.7'
+  自治区吕都:
+    :latitude: '31.18'
+    :longitude: '97.14'
+  自治区贡觉:
+    :latitude: '30.86'
+    :longitude: '98.29'
+  自治区左贡:
+    :latitude: '29.68'
+    :longitude: '97.9'
+  自治区察隅:
+    :latitude: '28.62'
+    :longitude: '97.49'
+  自治区洛隆:
+    :latitude: '30.81'
+    :longitude: '95.76'
+  自治区丁青:
+    :latitude: '31.42'
+    :longitude: '95.63'
+  自治区波密:
+    :latitude: '29.92'
+    :longitude: '95.75'
+  自治区江达:
+    :latitude: '31.53'
+    :longitude: '89.19'
+  自治区察雅:
+    :latitude: '30.69'
+    :longitude: '97.56'
+  自治区芒康:
+    :latitude: '29.64'
+    :longitude: '98.68'
+  自治区八宿:
+    :latitude: '30.04'
+    :longitude: '96.95'
+  自治区边坝:
+    :latitude: '30.94'
+    :longitude: '94.69'
+  自治区类乌齐:
+    :latitude: '31.2'
+    :longitude: '96.57'
+  自治区乃东:
+    :latitude: '29.18'
+    :longitude: '91.76'
+  自治区加查:
+    :latitude: '29.09'
+    :longitude: '92.6'
+  自治区曲松:
+    :latitude: '29.08'
+    :longitude: '92.11'
+  自治区错那:
+    :latitude: '27.98'
+    :longitude: '91.91'
+  自治区穷结:
+    :latitude: '29.04'
+    :longitude: '91.65'
+  自治区贡嘎:
+    :latitude: '29.25'
+    :longitude: '90.96'
+  自治区浪卡子:
+    :latitude: '29.96'
+    :longitude: '90.33'
+  自治区桑日:
+    :latitude: '29.26'
+    :longitude: '92'
+  自治区朗县:
+    :latitude: '29.06'
+    :longitude: '93.11'
+  自治区隆子:
+    :latitude: '28.46'
+    :longitude: '92.42'
+  自治区措美:
+    :latitude: '28.49'
+    :longitude: '91.4'
+  自治区洛扎:
+    :latitude: '28.42'
+    :longitude: '90.83'
+  自治区扎囊:
+    :latitude: '29.22'
+    :longitude: '91.26'
+  自治区日喀则:
+    :latitude: '29.28'
+    :longitude: '88.82'
+  自治区定结:
+    :latitude: '28.38'
+    :longitude: '87.77'
+  自治区拉孜:
+    :latitude: '29.1'
+    :longitude: '87.62'
+  自治区聂拉木:
+    :latitude: '28.19'
+    :longitude: '85.94'
+  自治区谢通门:
+    :latitude: '29.43'
+    :longitude: '88.25'
+  自治区仲巴:
+    :latitude: '29.66'
+    :longitude: '84.15'
+  自治区康马:
+    :latitude: '28.57'
+    :longitude: '89.67'
+  自治区亚东:
+    :latitude: '27.55'
+    :longitude: '88.93'
+  自治区岗巴:
+    :latitude: '28.29'
+    :longitude: '88.5'
+  自治区南木林:
+    :latitude: '29.71'
+    :longitude: '89.02'
+  自治区萨迦:
+    :latitude: '28.87'
+    :longitude: '88'
+  自治区定日:
+    :latitude: '28.57'
+    :longitude: '87.11'
+  自治区吉隆:
+    :latitude: '28.94'
+    :longitude: '85.29'
+  自治区昂仁:
+    :latitude: '29.3'
+    :longitude: '87.22'
+  自治区江孜:
+    :latitude: '28.94'
+    :longitude: '89.63'
+  自治区仁布:
+    :latitude: '29.21'
+    :longitude: '89.77'
+  自治区白朗:
+    :latitude: '29.11'
+    :longitude: '89.16'
+  自治区萨嘎:
+    :latitude: '29.38'
+    :longitude: '85.3'
+  自治区噶尔:
+    :latitude: '32.08'
+    :longitude: '80'
+  自治区革吉:
+    :latitude: '32.45'
+    :longitude: '81.13'
+  自治区扎达:
+    :latitude: '31.47'
+    :longitude: '79.76'
+  自治区措勤:
+    :latitude: '31.06'
+    :longitude: '85.16'
+  自治区日上:
+    :latitude: '33.44'
+    :longitude: '79.61'
+  自治区改则:
+    :latitude: '32.33'
+    :longitude: '84.1'
+  自治区普兰:
+    :latitude: '30.37'
+    :longitude: '81.18'
+贵州:
+  贵阳:
+    :latitude: '26.57'
+    :longitude: '106.71'
+  六盘水:
+    :latitude: '26.58'
+    :longitude: '104.82'
+  水城:
+    :latitude: '26.58'
+    :longitude: '104.82'
+  盘县:
+    :latitude: '25.81'
+    :longitude: '104.64'
+  六枝:
+    :latitude: '26.21'
+    :longitude: '105.47'
+  遵义:
+    :latitude: '27.7'
+    :longitude: '106.9'
+  绥阳:
+    :latitude: '27.95'
+    :longitude: '107.19'
+  道真:
+    :latitude: '28.89'
+    :longitude: '107.6'
+  凤冈:
+    :latitude: '27.97'
+    :longitude: '107.72'
+  余庆:
+    :latitude: '27.22'
+    :longitude: '107.88'
+  赤水:
+    :latitude: '28.57'
+    :longitude: '105.69'
+  桐梓:
+    :latitude: '28.16'
+    :longitude: '106.8'
+  正安:
+    :latitude: '28.56'
+    :longitude: '107.43'
+  务川:
+    :latitude: '28.54'
+    :longitude: '107.87'
+  湄潭:
+    :latitude: '27.76'
+    :longitude: '107.5'
+  仁怀:
+    :latitude: '27.81'
+    :longitude: '106.41'
+  习水:
+    :latitude: '28.33'
+    :longitude: '106.2'
+  铜仁:
+    :latitude: '27.73'
+    :longitude: '109.21'
+  玉屏:
+    :latitude: '27.24'
+    :longitude: '108.91'
+  思南:
+    :latitude: '27.94'
+    :longitude: '108.23'
+  德江:
+    :latitude: '28.27'
+    :longitude: '108.13'
+  万山:
+    :latitude: '27.52'
+    :longitude: '109.2'
+  江口:
+    :latitude: '27.68'
+    :longitude: '108.82'
+  师阡:
+    :latitude: '27.52'
+    :longitude: '108.24'
+  印江:
+    :latitude: '28.02'
+    :longitude: '108.41'
+  沿河:
+    :latitude: '28.57'
+    :longitude: '108.48'
+  松桃:
+    :latitude: '28.17'
+    :longitude: '109.18'
+  毕节:
+    :latitude: '27.32'
+    :longitude: '105.29'
+  黔西:
+    :latitude: '27.03'
+    :longitude: '106.04'
+  织金:
+    :latitude: '26.66'
+    :longitude: '105.76'
+  赫章:
+    :latitude: '27.13'
+    :longitude: '104.71'
+  大方:
+    :latitude: '27.16'
+    :longitude: '105.61'
+  金沙:
+    :latitude: '27.46'
+    :longitude: '106.22'
+  钠雍:
+    :latitude: '26.77'
+    :longitude: '105.38'
+  威宁:
+    :latitude: '26.87'
+    :longitude: '104.28'
+  安顺:
+    :latitude: '26.25'
+    :longitude: '105.92'
+  息烽:
+    :latitude: '27.1'
+    :longitude: '106.73'
+  清镇:
+    :latitude: '26.56'
+    :longitude: '106.46'
+  普定:
+    :latitude: '26.32'
+    :longitude: '105.75'
+  开阳:
+    :latitude: '27.06'
+    :longitude: '106.95'
+  修文:
+    :latitude: '26.84'
+    :longitude: '106.59'
+  平坝:
+    :latitude: '26.42'
+    :longitude: '106.26'
+  镇宁:
+    :latitude: '26.08'
+    :longitude: '105.75'
+  紫云:
+    :latitude: '25.75'
+    :longitude: '106.06'
+  关岭:
+    :latitude: '25.94'
+    :longitude: '105.62'
+  兴义:
+    :latitude: '25.1'
+    :longitude: '104.91'
+  普安:
+    :latitude: '25.79'
+    :longitude: '104.96'
+  贞丰:
+    :latitude: '25.39'
+    :longitude: '105.63'
+  望谟:
+    :latitude: '25.17'
+    :longitude: '106.09'
+  册亭:
+    :latitude: '25'
+    :longitude: '105.79'
+  安龙:
+    :latitude: '25.11'
+    :longitude: '105.49'
+  兴仁:
+    :latitude: '25.44'
+    :longitude: '105.18'
+  晴龙:
+    :latitude: '25.83'
+    :longitude: '105.21'
+  凯里:
+    :latitude: '26.59'
+    :longitude: '107.97'
+  施秉:
+    :latitude: '27.03'
+    :longitude: '108.11'
+  镇远:
+    :latitude: '27.06'
+    :longitude: '108.41'
+  天柱:
+    :latitude: '26.89'
+    :longitude: '109.2'
+  剑河:
+    :latitude: '26.64'
+    :longitude: '108.58'
+  黎平:
+    :latitude: '26.24'
+    :longitude: '109.14'
+  从江:
+    :latitude: '25.76'
+    :longitude: '108.9'
+  麻江:
+    :latitude: '26.49'
+    :longitude: '107.58'
+  黄平:
+    :latitude: '26.89'
+    :longitude: '107.89'
+  三穗:
+    :latitude: '26.98'
+    :longitude: '108.68'
+  岑巩:
+    :latitude: '27.21'
+    :longitude: '108.72'
+  锦屏:
+    :latitude: '26.7'
+    :longitude: '109.18'
+  台江:
+    :latitude: '26.68'
+    :longitude: '108.32'
+  榕江:
+    :latitude: '25.94'
+    :longitude: '108.5'
+  雷山:
+    :latitude: '26.38'
+    :longitude: '108.07'
+  丹寨:
+    :latitude: '26.21'
+    :longitude: '107.79'
+  都匀:
+    :latitude: '26.72'
+    :longitude: '107.53'
+  贵定:
+    :latitude: '26.58'
+    :longitude: '107.22'
+  瓮安:
+    :latitude: '27.08'
+    :longitude: '107.48'
+  平塘:
+    :latitude: '25.83'
+    :longitude: '107.55'
+  长顺:
+    :latitude: '26.03'
+    :longitude: '106.45'
+  惠水:
+    :latitude: '26.14'
+    :longitude: '106.66'
+  荔波:
+    :latitude: '25.42'
+    :longitude: '107.88'
+  福泉:
+    :latitude: '26.7'
+    :longitude: '107.51'
+  独山:
+    :latitude: '25.84'
+    :longitude: '107.54'
+  罗甸:
+    :latitude: '25.43'
+    :longitude: '106.74'
+  龙里:
+    :latitude: '26.46'
+    :longitude: '106.98'
+  三都:
+    :latitude: '26'
+    :longitude: '107.86'
+辽宁:
+  沈阳:
+    :latitude: '41.8'
+    :longitude: '123.38'
+  新民:
+    :latitude: '42'
+    :longitude: '122.83'
+  辽中:
+    :latitude: '41.52'
+    :longitude: '122.7'
+  大连:
+    :latitude: '38.92'
+    :longitude: '121.62'
+  金县:
+    :latitude: '39.13'
+    :longitude: '121.7'
+  复县:
+    :latitude: '39.63'
+    :longitude: '121.97'
+  新金:
+    :latitude: '39.55'
+    :longitude: '121.95'
+  庄河:
+    :latitude: '39.7'
+    :longitude: '22.97'
+  长海:
+    :latitude: '39.28'
+    :longitude: '122.58'
+  鞍山:
+    :latitude: '41.12'
+    :longitude: '122.85'
+  海城:
+    :latitude: '40.85'
+    :longitude: '122.75'
+  台安:
+    :latitude: '41.4'
+    :longitude: '122.4'
+  抚顺:
+    :latitude: '41.97'
+    :longitude: '123.97'
+  新宾:
+    :latitude: '41.72'
+    :longitude: '125.02'
+  清原:
+    :latitude: '42.13'
+    :longitude: '124.9'
+  本溪:
+    :latitude: '41.3'
+    :longitude: '123.73'
+  垣仁:
+    :latitude: '41.28'
+    :longitude: '125.33'
+  锦州:
+    :latitude: '41.13'
+    :longitude: '121.15'
+  锦县:
+    :latitude: '41.17'
+    :longitude: '121.35'
+  义县:
+    :latitude: '41.55'
+    :longitude: '121.22'
+  黑山:
+    :latitude: '41.7'
+    :longitude: '122.12'
+  北镇:
+    :latitude: '41.6'
+    :longitude: '121.8'
+  锦西:
+    :latitude: '40.77'
+    :longitude: '120.83'
+  兴城:
+    :latitude: '40.63'
+    :longitude: '120.68'
+  绥中:
+    :latitude: '40.35'
+    :longitude: '120.32'
+  丹东:
+    :latitude: '40.13'
+    :longitude: '124.37'
+  东沟:
+    :latitude: '39.97'
+    :longitude: '124.13'
+  岫岩:
+    :latitude: '40.3'
+    :longitude: '123.25'
+  凤城:
+    :latitude: '40.47'
+    :longitude: '124.05'
+  宽甸:
+    :latitude: '40.75'
+    :longitude: '124.77'
+  阜新:
+    :latitude: '42'
+    :longitude: '121.65'
+  彰武:
+    :latitude: '42.42'
+    :longitude: '122.52'
+  营口:
+    :latitude: '40.65'
+    :longitude: '122.18'
+  盖县:
+    :latitude: '40.42'
+    :longitude: '122.37'
+  盘山:
+    :latitude: '41.02'
+    :longitude: '122.03'
+  大洼:
+    :latitude: '41'
+    :longitude: '122.06'
+  辽阳:
+    :latitude: '41.28'
+    :longitude: '123.17'
+  灯塔:
+    :latitude: '41.43'
+    :longitude: '123.34'
+  铁岭:
+    :latitude: '42.32'
+    :longitude: '123.85'
+  开原:
+    :latitude: '42.53'
+    :longitude: '124.03'
+  昌图:
+    :latitude: '42.8'
+    :longitude: '124.13'
+  铁法:
+    :latitude: '42.48'
+    :longitude: '123.5'
+  康平:
+    :latitude: '42.75'
+    :longitude: '123.33'
+  法库:
+    :latitude: '42.52'
+    :longitude: '123.37'
+  西丰:
+    :latitude: '42.77'
+    :longitude: '124.7'
+  朝阳:
+    :latitude: '41.58'
+    :longitude: '120.42'
+  建昌:
+    :latitude: '40.82'
+    :longitude: '119.78'
+  北票:
+    :latitude: '41.82'
+    :longitude: '120.75'
+  凌源:
+    :latitude: '41.27'
+    :longitude: '119.37'
+  建平:
+    :latitude: '41.38'
+    :longitude: '119.63'
+重庆:
+  重庆:
+    :latitude: '29.59'
+    :longitude: '106.54'
+  綦江:
+    :latitude: '29.41'
+    :longitude: '106.56'
+  长寿:
+    :latitude: '29.01'
+    :longitude: '106.64'
+  南桐:
+    :latitude: '29.86'
+    :longitude: '107.04'
+  合川:
+    :latitude: '29.26'
+    :longitude: '106.28'
+  潼南:
+    :latitude: '30.03'
+    :longitude: '106.22'
+  铜梁:
+    :latitude: '30.16'
+    :longitude: '105.8'
+  壁山:
+    :latitude: '29.86'
+    :longitude: '106.03'
+  荣昌:
+    :latitude: '29.62'
+    :longitude: '106.21'
+  大足:
+    :latitude: '29.4'
+    :longitude: '105.59'
+  永川:
+    :latitude: '29.75'
+    :longitude: '105.71'
+  万盛:
+    :latitude: '29.38'
+    :longitude: '105.91'
+陕西:
+  西安:
+    :latitude: '34.27'
+    :longitude: '108.95'
+  长安:
+    :latitude: '34.18'
+    :longitude: '108.97'
+  铜川:
+    :latitude: '35.09'
+    :longitude: '109.11'
+  耀县:
+    :latitude: '34.91'
+    :longitude: '108.98'
+  宝鸡:
+    :latitude: '34.38'
+    :longitude: '107.15'
+  凤翔:
+    :latitude: '34.53'
+    :longitude: '107.39'
+  千阳:
+    :latitude: '34.65'
+    :longitude: '107.13'
+  陇县:
+    :latitude: '34.91'
+    :longitude: '106.86'
+  麟游:
+    :latitude: '34.69'
+    :longitude: '107.8'
+  岐山:
+    :latitude: '34.46'
+    :longitude: '107.63'
+  浮风:
+    :latitude: '34.38'
+    :longitude: '107.87'
+  武功:
+    :latitude: '34.28'
+    :longitude: '108.22'
+  眉县:
+    :latitude: '34.29'
+    :longitude: '107.76'
+  太白:
+    :latitude: '34.09'
+    :longitude: '107.3'
+  凤县:
+    :latitude: '33.93'
+    :longitude: '106.51'
+  榆林:
+    :latitude: '38.3'
+    :longitude: '109.77'
+  神木:
+    :latitude: '38.83'
+    :longitude: '110.51'
+  府谷:
+    :latitude: '39.05'
+    :longitude: '111.07'
+  佳县:
+    :latitude: '38.04'
+    :longitude: '110.48'
+  米脂:
+    :latitude: '37.78'
+    :longitude: '110.23'
+  吴堡:
+    :latitude: '37.49'
+    :longitude: '110.73'
+  绥德:
+    :latitude: '37.49'
+    :longitude: '110.24'
+  清涧:
+    :latitude: '37.11'
+    :longitude: '110.15'
+  子洲:
+    :latitude: '37.45'
+    :longitude: '110.05'
+  横山:
+    :latitude: '37.97'
+    :longitude: '109.32'
+  靖边:
+    :latitude: '37.61'
+    :longitude: '108.79'
+  定边:
+    :latitude: '37.6'
+    :longitude: '107.59'
+  延安:
+    :latitude: '36.6'
+    :longitude: '109.47'
+  安寨:
+    :latitude: '36.88'
+    :longitude: '109.34'
+  子长:
+    :latitude: '37.16'
+    :longitude: '109.65'
+  延川:
+    :latitude: '36.87'
+    :longitude: '110.18'
+  延长:
+    :latitude: '36.59'
+    :longitude: '110.02'
+  宜川:
+    :latitude: '36.04'
+    :longitude: '110.15'
+  黄龙:
+    :latitude: '35.6'
+    :longitude: '109.86'
+  洛川:
+    :latitude: '35.76'
+    :longitude: '109.42'
+  宜君:
+    :latitude: '35.43'
+    :longitude: '109.11'
+  黄陵:
+    :latitude: '35.6'
+    :longitude: '109.27'
+  富县:
+    :latitude: '36'
+    :longitude: '109.37'
+  甘泉:
+    :latitude: '36.29'
+    :longitude: '109.37'
+  志丹:
+    :latitude: '36.84'
+    :longitude: '108.78'
+  吴旗:
+    :latitude: '36.93'
+    :longitude: '108.22'
+  咸阳:
+    :latitude: '34.36'
+    :longitude: '108.72'
+  礼泉:
+    :latitude: '34.5'
+    :longitude: '108.43'
+  永寿:
+    :latitude: '34.71'
+    :longitude: '108.14'
+  彬县:
+    :latitude: '35.04'
+    :longitude: '108.09'
+  长武:
+    :latitude: '35.22'
+    :longitude: '107.8'
+  旬邑:
+    :latitude: '35.13'
+    :longitude: '108.33'
+  淳化:
+    :latitude: '34.81'
+    :longitude: '108.57'
+  泾阳:
+    :latitude: '34.53'
+    :longitude: '108.84'
+  三原:
+    :latitude: '34.62'
+    :longitude: '108.94'
+  高陵:
+    :latitude: '34.55'
+    :longitude: '109.1'
+  户县:
+    :latitude: '34.12'
+    :longitude: '108.61'
+  周至:
+    :latitude: '34.18'
+    :longitude: '108.22'
+  兴平:
+    :latitude: '34.32'
+    :longitude: '108.49'
+  乾县:
+    :latitude: '34.54'
+    :longitude: '108.25'
+  渭南:
+    :latitude: '34.52'
+    :longitude: '109.5'
+  蒲城:
+    :latitude: '34.97'
+    :longitude: '109.59'
+  白水:
+    :latitude: '35.18'
+    :longitude: '109.6'
+  成城:
+    :latitude: '35.2'
+    :longitude: '109.93'
+  韩城:
+    :latitude: '35.47'
+    :longitude: '110.45'
+  合阳:
+    :latitude: '35.24'
+    :longitude: '110.15'
+  人荔:
+    :latitude: '34.82'
+    :longitude: '109.96'
+  潼关:
+    :latitude: '34.56'
+    :longitude: '110.25'
+  华阴:
+    :latitude: '34.58'
+    :longitude: '110.09'
+  华县:
+    :latitude: '34.53'
+    :longitude: '109.77'
+  蓝田:
+    :latitude: '34.17'
+    :longitude: '109.32'
+  临潼:
+    :latitude: '34.38'
+    :longitude: '109.22'
+  富平:
+    :latitude: '34.76'
+    :longitude: '109.17'
+  商县:
+    :latitude: '33.88'
+    :longitude: '109.96'
+  洛南:
+    :latitude: '34.11'
+    :longitude: '110.15'
+  丹凤:
+    :latitude: '33.71'
+    :longitude: '110.35'
+  商南:
+    :latitude: '33.54'
+    :longitude: '110.88'
+  山阳:
+    :latitude: '33.55'
+    :longitude: '109.91'
+  镇安:
+    :latitude: '33.45'
+    :longitude: '109.16'
+  柞水:
+    :latitude: '33.69'
+    :longitude: '109.14'
+  安康:
+    :latitude: '32.7'
+    :longitude: '109.02'
+  旬阳:
+    :latitude: '32.83'
+    :longitude: '109.35'
+  白河:
+    :latitude: '32.83'
+    :longitude: '110.06'
+  平利:
+    :latitude: '32.41'
+    :longitude: '109.37'
+  镇坪:
+    :latitude: '31.91'
+    :longitude: '109.51'
+  岚皋:
+    :latitude: '32.3'
+    :longitude: '108.89'
+  紫阳:
+    :latitude: '32.56'
+    :longitude: '108.55'
+  汉阴:
+    :latitude: '32.9'
+    :longitude: '108.53'
+  石泉:
+    :latitude: '33.05'
+    :longitude: '108.26'
+  宁陕:
+    :latitude: '33.34'
+    :longitude: '108.33'
+  汉中:
+    :latitude: '33.07'
+    :longitude: '108.04'
+  留坝:
+    :latitude: '33.65'
+    :longitude: '106.95'
+  城固:
+    :latitude: '33.16'
+    :longitude: '107.32'
+  洋县:
+    :latitude: '33.23'
+    :longitude: '107.56'
+  佛坪:
+    :latitude: '33.55'
+    :longitude: '108'
+  西乡:
+    :latitude: '33'
+    :longitude: '107.77'
+  镇巴:
+    :latitude: '32.56'
+    :longitude: '107.91'
+  南郑:
+    :latitude: '33'
+    :longitude: '106.93'
+  宁强:
+    :latitude: '32.82'
+    :longitude: '106.25'
+  勉县:
+    :latitude: '33.16'
+    :longitude: '106.68'
+  略阳:
+    :latitude: '33.34'
+    :longitude: '106.16'
+青海:
+  西宁:
+    :latitude: '36.56'
+    :longitude: '101.74'
+  大通:
+    :latitude: '36.92'
+    :longitude: '101.67'
+  平安:
+    :latitude: '36.47'
+    :longitude: '102.09'
+  湟中:
+    :latitude: '36.49'
+    :longitude: '101.57'
+  乐都:
+    :latitude: '36.49'
+    :longitude: '102.38'
+  民和:
+    :latitude: '36.3'
+    :longitude: '102.8'
+  湟源:
+    :latitude: '36.72'
+    :longitude: '101.28'
+  互助:
+    :latitude: '36.84'
+    :longitude: '101.95'
+  化隆:
+    :latitude: '36.11'
+    :longitude: '102.3'
+  循化:
+    :latitude: '35.84'
+    :longitude: '102.46'
+  门源:
+    :latitude: '37.37'
+    :longitude: '101.62'
+  海晏:
+    :latitude: '36.89'
+    :longitude: '100.99'
+  刚察:
+    :latitude: '37.32'
+    :longitude: '100.17'
+  祁连:
+    :latitude: '38.2'
+    :longitude: '100.22'
+  同仁:
+    :latitude: '35.54'
+    :longitude: '102'
+  尖扎:
+    :latitude: '35.92'
+    :longitude: '102'
+  泽库:
+    :latitude: '35.03'
+    :longitude: '101.5'
+  河南:
+    :latitude: '34.75'
+    :longitude: '101.62'
+  共和:
+    :latitude: '36.27'
+    :longitude: '100.61'
+  贵德:
+    :latitude: '36.02'
+    :longitude: '101.47'
+  贵南:
+    :latitude: '35.57'
+    :longitude: '100.75'
+  同德:
+    :latitude: '35.24'
+    :longitude: '100.63'
+  兴海:
+    :latitude: '35.6'
+    :longitude: '99.99'
+  玛沁:
+    :latitude: '34.49'
+    :longitude: '100.26'
+  甘德:
+    :latitude: '33.95'
+    :longitude: '99.89'
+  久治:
+    :latitude: '33.46'
+    :longitude: '101.47'
+  班玛:
+    :latitude: '32.92'
+    :longitude: '100.73'
+  达日:
+    :latitude: '33.74'
+    :longitude: '99.68'
+  玛多:
+    :latitude: '34.92'
+    :longitude: '98.26'
+  玉树:
+    :latitude: '33.03'
+    :longitude: '96.97'
+  称多:
+    :latitude: '33.35'
+    :longitude: '97.12'
+  囊谦:
+    :latitude: '32.23'
+    :longitude: '96.47'
+  杂多:
+    :latitude: '32.92'
+    :longitude: '95.3'
+  治多:
+    :latitude: '33.86'
+    :longitude: '95.6'
+  曲麻菜:
+    :latitude: '34.52'
+    :longitude: '95.5'
+  格尔木:
+    :latitude: '36.41'
+    :longitude: '94.9'
+  乌兰:
+    :latitude: '36.9'
+    :longitude: '98.46'
+  都兰:
+    :latitude: '36.3'
+    :longitude: '98.13'
+  天峻:
+    :latitude: '37.28'
+    :longitude: '99.03'
+黑龙江:
+  哈尔滨:
+    :latitude: '45.75'
+    :longitude: '126.63'
+  齐齐哈尔:
+    :latitude: '47.33'
+    :longitude: '123.97'
+  鹤岗:
+    :latitude: '47.33'
+    :longitude: '130.3'
+  双鸭山:
+    :latitude: '46.65'
+    :longitude: '131.17'
+  鸡四:
+    :latitude: '45.3'
+    :longitude: '130.97'
+  大庆:
+    :latitude: '46.58'
+    :longitude: '125.03'
+  伊春:
+    :latitude: '47.73'
+    :longitude: '128.92'
+  嘉荫:
+    :latitude: '48.93'
+    :longitude: '130'
+  铁力:
+    :latitude: '47.98'
+    :longitude: '128.08'
+  绥化:
+    :latitude: '46.63'
+    :longitude: '127'
+  绥棱:
+    :latitude: '47.22'
+    :longitude: '127.12'
+  海伦:
+    :latitude: '47.47'
+    :longitude: '126.97'
+  庆安:
+    :latitude: '46.87'
+    :longitude: '127.5'
+  兰西:
+    :latitude: '46.28'
+    :longitude: '126.3'
+  肇东:
+    :latitude: '46.07'
+    :longitude: '125.98'
+  肇州:
+    :latitude: '45.72'
+    :longitude: '125.25'
+  肇源:
+    :latitude: '45.53'
+    :longitude: '125.07'
+  安达:
+    :latitude: '46.42'
+    :longitude: '125.33'
+  明水:
+    :latitude: '47.18'
+    :longitude: '125.88'
+  青岗:
+    :latitude: '46.68'
+    :longitude: '126.13'
+  望奎:
+    :latitude: '46.83'
+    :longitude: '126.5'
+  黑河:
+    :latitude: '50.22'
+    :longitude: '127.53'
+  爱辉:
+    :latitude: '50.22'
+    :longitude: '127.53'
+  德都:
+    :latitude: '48.5'
+    :longitude: '126.17'
+  通北:
+    :latitude: '49.76'
+    :longitude: '126.8'
+  北安:
+    :latitude: '48.22'
+    :longitude: '126.5'
+  孙吴:
+    :latitude: '49.22'
+    :longitude: '127.5'
+  逊克:
+    :latitude: '49.57'
+    :longitude: '128.42'
+  嫩江:
+    :latitude: '49.17'
+    :longitude: '125.2'
+  佳木斯:
+    :latitude: '46.83'
+    :longitude: '130.35'
+  桦川:
+    :latitude: '47.02'
+    :longitude: '130.68'
+  萝北:
+    :latitude: '47.58'
+    :longitude: '130.83'
+  绥滨:
+    :latitude: '47.3'
+    :longitude: '131.83'
+  富锦:
+    :latitude: '47.23'
+    :longitude: '132.02'
+  同江:
+    :latitude: '47.67'
+    :longitude: '132.5'
+  抚远:
+    :latitude: '48.33'
+    :longitude: '134.15'
+  饶河:
+    :latitude: '46.78'
+    :longitude: '134'
+  七台河:
+    :latitude: '45.82'
+    :longitude: '130.83'
+  宝清:
+    :latitude: '46.33'
+    :longitude: '132.17'
+  集贤:
+    :latitude: '46.7'
+    :longitude: '131.13'
+  勃利:
+    :latitude: '45.75'
+    :longitude: '130.53'
+  桦南:
+    :latitude: '46.25'
+    :longitude: '130.53'
+  依兰:
+    :latitude: '46.33'
+    :longitude: '129.55'
+  汤源:
+    :latitude: '46.73'
+    :longitude: '129.92'
+  牡丹江:
+    :latitude: '44.6'
+    :longitude: '129.58'
+  林口:
+    :latitude: '45.3'
+    :longitude: '130.23'
+  鸡东:
+    :latitude: '45.27'
+    :longitude: '131.04'
+  密山:
+    :latitude: '45.53'
+    :longitude: '131.85'
+  虎林:
+    :latitude: '45.75'
+    :longitude: '133.97'
+  绥芬河:
+    :latitude: '44.38'
+    :longitude: '131.17'
+  东宁:
+    :latitude: '44.07'
+    :longitude: '131.12'
+  穆棱:
+    :latitude: '44.9'
+    :longitude: '130.5'
+  宁安:
+    :latitude: '44.35'
+    :longitude: '129.47'
+  海林:
+    :latitude: '44.57'
+    :longitude: '129.35'
+  阿城:
+    :latitude: '45.52'
+    :longitude: '126.95'
+  呼兰:
+    :latitude: '46'
+    :longitude: '126.58'
+  巴彦:
+    :latitude: '46.08'
+    :longitude: '127.38'
+  宾县:
+    :latitude: '45.75'
+    :longitude: '127.48'
+  木兰:
+    :latitude: '45.95'
+    :longitude: '128.03'
+  通河:
+    :latitude: '45.98'
+    :longitude: '128.7'
+  方正:
+    :latitude: '45.83'
+    :longitude: '128.8'
+  延寿:
+    :latitude: '45.47'
+    :longitude: '128.35'
+  尚志:
+    :latitude: '45.22'
+    :longitude: '127.95'
+  五常:
+    :latitude: '44.93'
+    :longitude: '127.17'
+  双城:
+    :latitude: '45.53'
+    :longitude: '126.32'
+  富裕:
+    :latitude: '47.8'
+    :longitude: '124.4'
+  讷河:
+    :latitude: '48.48'
+    :longitude: '124.85'
+  克山:
+    :latitude: '48.03'
+    :longitude: '125.87'
+  克东:
+    :latitude: '48.03'
+    :longitude: '126.22'
+  拜泉:
+    :latitude: '47.62'
+    :longitude: '126.07'
+  依安:
+    :latitude: '47.92'
+    :longitude: '125.3'
+  林甸:
+    :latitude: '47.18'
+    :longitude: '124.87'
+  泰来:
+    :latitude: '46.4'
+    :longitude: '123.45'
+  龙江:
+    :latitude: '47.35'
+    :longitude: '123.18'
+  甘南:
+    :latitude: '47.9'
+    :longitude: '123.48'
+  杜尔伯特:
+    :latitude: '46.86'
+    :longitude: '124.44'
+  加格达奇:
+    :latitude: '50.42'
+    :longitude: '124.07'
+  呼玛:
+    :latitude: '51.72'
+    :longitude: '126.6'
+  塔河:
+    :latitude: '52.32'
+    :longitude: '124.7'
+  漠河:
+    :latitude: '53.48'
+    :longitude: '122.37'
