@@ -1,8 +1,6 @@
 # Pigeon
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/pigeon`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+根据输入的语句，找出省市信息，并从自带的地理位置母本库中给出经纬度坐标，从自带的行政区划代码库中给出行政区划代码。
 
 ## Installation
 
@@ -22,7 +20,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Pigeon::Search.instance.search "我在浙江省杭州市西湖区"
+# => {:latitude=>"30.26", :longitude=>"120.19", :province=>"浙江", :city=>"杭州", :accuracy=>true, :xzqhdm=>"330100"}
+```
+
+## TODO
+
+- 丰富词库
+- 增加街道一级数据
+- 支持长文本分词
+- 支持命令行管道方式处理
 
 ## Development
 

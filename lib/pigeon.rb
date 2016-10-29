@@ -5,6 +5,7 @@ require "pigeon/search"
 require "pigeon/location"
 
 require "yaml"
+require 'active_support/core_ext/object/blank'
 
 module Pigeon
   # Your code goes here...
