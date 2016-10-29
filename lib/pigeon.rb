@@ -1,3 +1,5 @@
+require 'singleton'
+
 require "pigeon/version"
 require "pigeon/search"
 require "pigeon/location"
