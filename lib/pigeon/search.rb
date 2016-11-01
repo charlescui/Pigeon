@@ -1,3 +1,6 @@
+# encoding: UTF-8
+require'cgi'
+
 module Pigeon
     class Search
         include Singleton
@@ -6,15 +9,35 @@ module Pigeon
             @file = File.join(Pigeon.data, 'locations.yml')
             File.open(@file, 'r'){|f| @prov = YAML.load(f)}
 
+            # 生成城市检索表，不管省份不管重名
+            # 用于直接查找一维的城市信息
+            @city = {}
+            @prov.each { |k, v|  
+                if v.is_a? Hash
+                    v.each { |kk, vv|  
+                        @city[kk] = vv
+                    }
+                end
+            }
+
+            # 省市所有地区合并在一起的扁平索引
+            # 用于查找所有省市信息
+            @all = {}
+            @prov.each { |k,v| @all[k] = {}}
+            @city.each { |k,v| @all[k] = v}
+
             @file = File.join(Pigeon.data, 'xzqhdm.yml')
             File.open(@file, 'r'){|f| @xzqhdm = YAML.load(f)}
         end
 
-        # Search.instance.search "我在浙江省杭州市西湖区"
+        # Pigeon::Search.instance.search "我在浙江省杭州市西湖区"
         # => {:latitude=>"120.19", :longitude=>"30.26", :province=>"浙江", :city=>"杭州", :accuracy=>true, :xzqhdm=>"330100"}
         # 返回升级行政区划代码，用于热力图展示
-        def search(str)
-            co = self.coordinate(str)
+        # Pigeon::Search.instance.search("我在浙江省杭州市西湖区，这里是一个美丽的地方，环境跟黑龙江省的一个冰雪城市哈尔滨相比，温暖很多"){|e| puts e}
+        # {:latitude=>"30.26", :longitude=>"120.19", :province=>"浙江", :city=>"杭州", :accuracy=>true, :idx=>7}
+        # {:latitude=>"45.75", :longitude=>"126.63", :province=>"黑龙江", :city=>"哈尔滨", :accuracy=>true, :idx=>40}
+        def search(str, &blk)
+            co = self.coordinate(str, &blk)
             # 补全行政区划代码
             if !co.blank? and co[:province]
                 co[:xzqhdm] = self.xzqhdm(co[:province], co[:city])
@@ -29,8 +52,8 @@ module Pigeon
         # => {:latitude=>"120.19", :longitude=>"30.26", :province=>"浙江", :city=>"杭州", :accuracy=>true}
         # accuracy表示精准匹配
         # 当只能找到省，不能找到匹配市的数据的时候，accuracy是false
-        def coordinate(str)
-            prov, idx_p = self.scan(0, str, @prov)
+        def coordinate(str, idx=0, &blk)
+            prov, idx_p = self.scan(idx, str, @prov)
             if prov.blank?
                 return nil
             else
@@ -42,16 +65,20 @@ module Pigeon
                         # 数据母本中没有该城市
                         # 则使用该省份的省会城市数据
 
-                        # Search.instance.search "湖北省荆州市"
+                        # Search.instance.coordinate "湖北省荆州市"
                         # => {:latitude=>"114.31", :longitude=>"30.52", :province=>"湖北", :city=>"武汉"}
                         city = @prov[prov].keys.first
                         if city.blank?
-                            return {:province => prov}
+                            rlt = {
+                                :province => prov,
+                                :idx => idx_p
+                            }
                         else
-                            return @prov[prov][city].update ({
+                            rlt = @prov[prov][city].update ({
                                 :province => prov,
                                 :city => city,
-                                :accuracy => false
+                                :accuracy => false,
+                                :idx => idx_p
                             })
                         end
                     else
@@ -60,21 +87,29 @@ module Pigeon
                         # 比如from地址是：上海
                         # 那么在词库里面查找，省份是：上海，城市是：上海，这样的数据
 
-                        # Search.instance.search "上海"
+                        # Search.instance.coordinate "上海"
                         # => {:latitude=>"121.48", :longitude=>"31.22", :province=>"上海", :city=>"上海"}
-                        return @prov[prov][prov].update ({
+                        rlt = @prov[prov][prov].update ({
                             :province => prov,
                             :city => prov,
-                            :accuracy => false
+                            :accuracy => false,
+                            :idx => idx_p
                         })
                     end
                 else
-                    return @prov[prov][city].update ({
+                    rlt = @prov[prov][city].update ({
                         :province => prov,
                         :city => city,
-                        :accuracy => true
+                        :accuracy => true,
+                        :idx => idx_c
                     })
                 end
+                # 把结果返回给block处理
+                yield rlt
+                # 如果找到完整一组省市
+                # 不确定剩下的字符串是否还有地理信息
+                # 需要继续往后查找
+                coordinate(str, rlt[:idx], &blk)
             end
         end
 
@@ -101,10 +136,14 @@ module Pigeon
         # str 要分词的字符串
         # data Hash结构的母本数据
         def scan(idx, str, data={})
-            if idx + 1 > str.length
+            if (idx + 1) > str.length
                 return nil
             end
-            chars = str[idx..-1].split("")
+            begin
+                chars = str[idx..-1].split("")
+            rescue Exception => e
+                # byebug
+            end
             prefix = []
             # 根据Hash结构找到母本中有的KEY
             while (char = chars.shift)
@@ -117,6 +156,43 @@ module Pigeon
                 end
             end
             scan(idx + 1, str, data)
+        end
+
+        # 扁平递归查找
+        # 只找省份或者城市
+        # 找到一个算一个，没有前后、上下文关系
+        def flat_scan(idx, content, data={}, &blk)
+            item, idx_p = self.scan(idx, content, data)
+            if item.blank?
+                # 找不到则停止迭代查找
+                # STOP
+            else
+                rlt = {:item => item}.update(data[item])
+                yield rlt
+                flat_scan(idx_p, content, data, &blk)
+            end
+        end
+
+        # 流失扁平递归查找
+        def flow_flat_scan(io, flag='all', &blk)
+            # IO对象使用gets方法可以不截断
+            # 如果使用read会导致字符串截断
+            content = io.gets(Pigeon::MAXREAD).force_encoding('utf-8').encode(Encoding.find('UTF-8'), {invalid: :replace, undef: :replace, replace: ''})
+
+            case flag
+            when /all/i
+                flat_scan(0, content, @all, &blk)
+            when /city/i
+                flat_scan(0, content, @city, &blk)
+            when /prov.*/
+                flat_scan(0, content, @prov, &blk)
+            end
+
+            if io.eof?
+                # STOP
+            else
+                flow_flat_scan(io, flag, &blk)
+            end
         end
     end
 end

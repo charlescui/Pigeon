@@ -1,0 +1,77 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "./lib/pigeon"
+require "open-uri"
+
+require 'uri'
+require 'thor'
+require 'patron'
+require 'stringio'
+
+class PigeonCli < Thor
+  desc 'remote uri', '查找网页上的关键词'
+  option :flag, :type => :string
+
+  def remote(uri)
+    obj = URI.parse(uri)
+    sess = Patron::Session.new
+    sess.timeout = 10
+    sess.base_url = "#{obj.scheme}://#{obj.host}"
+    sess.headers['User-Agent'] = 'User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36'
+    {
+        "Accept"=>"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Encoding"=>"gzip,",
+        "deflate,"=>nil,
+        "sdch"=>nil,
+        "Accept-Language"=>"zh-CN,zh;q=0.8,en;q=0.6",
+        "Cache-Control"=>"max-age=0",
+        "Connection"=>"keep-alive",
+        "Referer"=>"https",
+        "Upgrade-Insecure-Requests"=>"1"
+    }.each { |k, v|  
+        sess.headers[k] = v
+    }
+    sess.headers['Host'] = obj.host
+    sess.headers['Referer'] = sess.base_url
+
+    resp = sess.get obj.path
+
+    Pigeon::Search.instance.flow_flat_scan(StringIO.new(resp.body), options[:flag] || 'all') do |item|
+        puts item
+    end
+  end
+
+  desc 'city', '查找城市关键词, tail -f sample.txt | pigeon city'
+
+  def city
+    Pigeon::Search.instance.flow_flat_scan(io, 'city') do |item|
+        puts item
+    end
+  end
+
+  desc 'province', '查找省份关键词, tail -f sample.txt | pigeon province'
+
+  def province
+    Pigeon::Search.instance.flow_flat_scan(io, 'province') do |item|
+        puts item
+    end
+  end
+
+  desc 'all', '查找所有省份和城市关键词, tail -f sample.txt | pigeon all'
+
+  def all
+    Pigeon::Search.instance.flow_flat_scan(io, 'all') do |item|
+        puts item
+    end
+  end
+end
+
+PigeonCli.start(ARGV)
+
+
+# Pigeon::Search.instance.flow_flat_scan(ARGF) do |item|
+#   STDERR.puts item
+# end
+# puts Pigeon::Search.instance.search("我在浙江省杭州市西湖区，这里是一个美丽的地方，环境跟黑龙江省的一个冰雪城市哈尔滨相比，温暖很多"){|e| puts e}
+# puts Pigeon::Search.instance.search("湖地区浙江省杭州市的西湖地区浙江省杭州市的西湖地区浙江省杭州市的西"){|e|puts e}

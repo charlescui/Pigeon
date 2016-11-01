@@ -28,6 +28,23 @@ Pigeon::Search.instance.search "我在浙江省杭州市西湖区"
 # => {:latitude=>"30.26", :longitude=>"120.19", :province=>"浙江", :city=>"杭州", :accuracy=>true, :xzqhdm=>"330100"}
 ```
 
+## 命令行
+
+```sh
+➜  pigeon git:(master) ✗ ./bin/pigeon                                               
+Commands:
+  pigeon all             # 查找所有省份和城市关键词, tail -f sample.txt | pigeon all
+  pigeon city            # 查找城市关键词, tail -f sample.txt | pigeon city
+  pigeon help [COMMAND]  # Describe available commands or one specific command
+  pigeon province        # 查找省份关键词, tail -f sample.txt | pigeon province
+  pigeon remote uri      # 查找网页上的关键词
+```
+
+举个例子:
+
+1. `./bin/pigeon remote https://www.zhihu.com/question/21457055`分析该知乎内容中的地理位置词语
+2. `tail -f sample.txt | pigeon city`通过管道流式的分析输入文本，提取关键词
+
 ## TODO
 
 - 丰富词库

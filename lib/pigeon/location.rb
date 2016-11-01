@@ -63,25 +63,25 @@ module Pigeon
             prov = ''
             # 根据母本数据
             # 整理出省/县级市这样的二级结构
+            # 省、直辖市、自治区
+            # 市、自治州、地区、盟
+            # 市、县、区、自治县、旗
             @data.each { |e|  
                 e.chomp!
-                if e =~ /^(\d+)(\s{6})(\S+)[省,市]$/
+                if (e =~ /^(\d+)(\s{6})(\S+)[省,市]$/) || (e =~ /^(\d+)(\s{6})(\S+)$/)
                     code = $1
-                    # 省或者直辖市
+                    # 省或者直辖市或者自治区
                     prov = $3
                     @prov[prov] = {:xzqhdm => code}
-                elsif e =~ /^(\d+)(\s{7})(\S+)[市,县]$/
+                elsif (!e.include?("自治") and (e =~ /^(\d+)(\s{7})(\S+)[市,县]$/)) || (e =~ /^(\d+)(\s{7})(\S+)$/)
                     code = $1
                     # 地级市
                     city = $3
                     @prov[prov][city] = {:xzqhdm => code}
-                elsif e =~ /^(\d+)(\s{8,})(\S+)[县,区]$/
+                elsif (!e.include?("自治") and (e =~ /^(\d+)(\s{8,})(\S+)[市,县,区]$/)) || (e =~ /^(\d+)(\s{8})(\S+)$/)
                     code = $1
-                    # 县级市或者区
+                    # 县级市或者区或者自治县
                     district = $3
-                    if district[-2..-1] == '自治'
-                        district = "#{district}区"
-                    end
                     @prov[prov][district] = {:xzqhdm => code}
                 else
                     puts "Error:#{e}"
